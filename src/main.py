@@ -37,7 +37,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://pro.openbb.co"],
+    allow_origins=["https://pro.openbb.co", "http://localhost:8000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -52,6 +52,10 @@ register_all_widgets(app)
 # Schwab OAuth routes
 from src.auth.schwab_oauth import router as schwab_router
 app.include_router(schwab_router)
+
+# Dashboard (Wave Terminal widget)
+from src.dashboard import router as dashboard_router
+app.include_router(dashboard_router)
 
 
 # Health check
