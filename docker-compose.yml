@@ -1,0 +1,44 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: investmcp
+      POSTGRES_USER: investmcp
+      POSTGRES_PASSWORD: investmcp_local
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U investmcp"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://investmcp:investmcp_local@db:5432/investmcp
+      AUTH0_DOMAIN: ""
+      AUTH0_CLIENT_ID: ""
+      AUTH0_CLIENT_SECRET: ""
+      AUTH0_AUDIENCE: ""
+      SCHWAB_APP_KEY: ""
+      SCHWAB_APP_SECRET: ""
+      SCHWAB_TOKEN_ENCRYPTION_KEY: ""
+      SCHWAB_TRADING_ENABLED: "false"
+      OPENBB_BACKEND_TOKEN: ""
+      FMP_API_KEY: ""
+      FRED_API_KEY: ""
+      NTFY_TOPIC: ""
+      SERVER_URL: http://localhost:8000
+      PORT: "8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  pgdata:
