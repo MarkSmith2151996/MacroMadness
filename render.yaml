@@ -1,0 +1,46 @@
+databases:
+  - name: investmcp-db
+    plan: free
+    databaseName: investmcp
+    user: investmcp
+
+services:
+  - type: web
+    name: investmcp
+    plan: free
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: investmcp-db
+          property: connectionString
+      - key: AUTH0_DOMAIN
+        value: ""
+      - key: AUTH0_CLIENT_ID
+        value: ""
+      - key: AUTH0_CLIENT_SECRET
+        value: ""
+      - key: AUTH0_AUDIENCE
+        value: ""
+      - key: SCHWAB_APP_KEY
+        value: ""
+      - key: SCHWAB_APP_SECRET
+        value: ""
+      - key: SCHWAB_TOKEN_ENCRYPTION_KEY
+        value: ""
+      - key: SCHWAB_TRADING_ENABLED
+        value: "false"
+      - key: OPENBB_BACKEND_TOKEN
+        value: ""
+      - key: FMP_API_KEY
+        value: ""
+      - key: FRED_API_KEY
+        value: ""
+      - key: NTFY_TOPIC
+        value: ""
+      - key: SERVER_URL
+        fromService:
+          name: investmcp
+          type: web
+          property: host
