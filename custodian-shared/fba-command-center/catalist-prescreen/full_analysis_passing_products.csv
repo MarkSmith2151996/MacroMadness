@@ -1,0 +1,621 @@
+asin,brand,category,buy_box_price,fba_sellers,amazon_pct,top_seller_pct,drops_90d,estimated_units,competition_grade,velocity_grade,source_batch
+B08257Z26W,187 Killer Pads,Sports & Outdoors,60.68,8.0,0.32,0.32,226.0,300.0,PASS,A,prescreen_v2_batch_001.csv
+B0CY44L9V6,3D MAXpider,Automotive,239.99,2.0,0.0,0.18,53.0,17.7,PASS,LOW,prescreen_v2_batch_001.csv
+B09SKVNFKD,3D MAXpider,Automotive,117.99,2.0,0.0,0.48,43.0,14.3,PASS,LOW,prescreen_v2_batch_001.csv
+B00CH8VMYG,3D MAXpider,Automotive,147.99,2.0,0.0,0.43,40.0,13.3,PASS,LOW,prescreen_v2_batch_001.csv
+B00IBON3G0,3D MAXpider,Automotive,124.99,2.0,0.0,0.27,9.0,3.0,PASS,LOW,prescreen_v2_batch_001.csv
+B07Q5VDNZJ,Aerobie,Sports & Outdoors,18.85,2.0,0.0,0.34,51.0,50.0,PASS,C,prescreen_v2_batch_004.csv
+B09GTC6R4N,Agrisel,"Patio, Lawn & Garden",24.14,2.0,0.0,0.49,235.0,100.0,PASS,C,prescreen_v2_batch_004.csv
+B015BSPPK0,Agrisel,"Patio, Lawn & Garden",23.99,3.0,0.0,0.53,43.0,50.0,PASS,C,prescreen_v2_batch_004.csv
+B07N1K43NQ,AIMS Power,Automotive,207.72,2.0,0.0,0.56,58.0,19.3,PASS,LOW,prescreen_v2_batch_005.csv
+B00I36K1VQ,AIMS Power,Automotive,942.0,2.0,0.0,0.46,55.0,18.3,PASS,LOW,prescreen_v2_batch_005.csv
+B01E3V66QS,AIMS Power,Automotive,358.34,2.0,0.0,0.5,55.0,18.3,PASS,LOW,prescreen_v2_batch_005.csv
+B00RM3T8II,AIMS Power,Automotive,34.99,9.0,0.0,0.36,54.0,18.0,PASS,LOW,prescreen_v2_batch_005.csv
+B00NZCRFRQ,AIMS Power,Automotive,1022.85,3.0,0.0,0.55,51.0,17.0,PASS,LOW,prescreen_v2_batch_005.csv
+B00DQC6Z6M,AIMS Power,Automotive,1229.43,2.0,0.0,0.26,49.0,16.3,PASS,LOW,prescreen_v2_batch_005.csv
+B08KKNK4L9,AIMS Power,Automotive,211.0,2.0,0.0,0.36,48.0,16.0,PASS,LOW,prescreen_v2_batch_005.csv
+B00JBND8VK,AIMS Power,Automotive,1412.0,3.0,0.0,0.43,46.0,15.3,PASS,LOW,prescreen_v2_batch_005.csv
+B00W2QUYGK,AIMS Power,Electronics,134.95,6.0,0.0,0.31,33.0,11.0,PASS,LOW,prescreen_v2_batch_005.csv
+B00BXTOQD4,AIMS Power,Automotive,974.0,3.0,0.0,0.52,11.0,3.7,PASS,LOW,prescreen_v2_batch_005.csv
+B00HHNCQ00,AIMS Power,Automotive,1997.6,2.0,0.0,0.3,11.0,3.7,PASS,LOW,prescreen_v2_batch_005.csv
+B01IP9U43K,AIMS Power,Automotive,318.49,3.0,0.0,0.41,9.0,3.0,PASS,LOW,prescreen_v2_batch_005.csv
+B00XK3951E,AIMS Power,Electronics,927.79,2.0,0.0,0.49,7.0,2.3,PASS,LOW,prescreen_v2_batch_005.csv
+B0CBST6K2T,Alley Cat Games,Toys & Games,39.99,2.0,0.29,0.52,20.0,6.7,PASS,LOW,prescreen_v2_batch_006.csv
+B00TS4W200,Allsop,Tools & Home Improvement,59.0,3.0,0.0,0.29,42.0,14.0,PASS,LOW,prescreen_v2_batch_006.csv
+B06XXX46V1,Allsop,"Patio, Lawn & Garden",35.99,2.0,0.0,0.51,38.0,12.7,PASS,LOW,prescreen_v2_batch_006.csv
+B07F35WHXL,Allsop,Tools & Home Improvement,45.99,2.0,0.0,0.58,33.0,11.0,PASS,LOW,prescreen_v2_batch_006.csv
+B0D89M7D13,Allsop,Office Products,24.13,2.0,0.3,0.3,19.0,6.3,PASS,LOW,prescreen_v2_batch_006.csv
+B01N017MC3,Allsop,Tools & Home Improvement,16.84,2.0,0.0,0.5,10.0,3.3,PASS,LOW,prescreen_v2_batch_006.csv
+B0869B2V21,Ameristep,Sports & Outdoors,97.41,2.0,0.24,0.53,28.0,9.3,PASS,LOW,prescreen_v2_batch_007.csv
+B00ZPTK4WA,Amscan,Toys & Games,16.37,7.0,0.0,0.57,79.0,600.0,PASS,A,prescreen_v2_batch_008.csv
+B0733MD48G,Amscan,Toys & Games,25.0,3.0,0.0,0.52,54.0,200.0,PASS,B,prescreen_v2_batch_008.csv
+B081HM9Z7P,Amscan,Toys & Games,17.29,6.0,0.0,0.39,45.0,200.0,PASS,B,prescreen_v2_batch_008.csv
+B010N8QE9E,Amscan,Toys & Games,15.29,5.0,0.0,0.51,59.0,100.0,PASS,C,prescreen_v2_batch_008.csv
+B083P4G4HY,Amscan,Home & Kitchen,21.82,4.0,0.0,0.41,40.0,100.0,PASS,C,prescreen_v2_batch_008.csv
+B0845PZ8TN,Amscan,Home & Kitchen,17.3,2.0,0.0,0.51,43.0,100.0,PASS,C,prescreen_v2_batch_008.csv
+B0B4F53QRR,Amscan,Home & Kitchen,26.93,3.0,0.0,0.51,38.0,100.0,PASS,C,prescreen_v2_batch_008.csv
+B009SB96I4,Amscan,Toys & Games,16.99,5.0,0.15,0.53,42.0,50.0,PASS,C,prescreen_v2_batch_008.csv
+B08462S5ZP,Amscan,Toys & Games,20.0,2.0,0.0,0.54,56.0,18.7,PASS,LOW,prescreen_v2_batch_008.csv
+B0767MNZ98,Amscan,Toys & Games,25.59,3.0,0.02,0.49,44.0,14.7,PASS,LOW,prescreen_v2_batch_008.csv
+B00991FZII,Amscan,Toys & Games,15.83,2.0,0.0,0.45,43.0,14.3,PASS,LOW,prescreen_v2_batch_008.csv
+B017PHJ6NW,Amscan,Home & Kitchen,19.48,3.0,0.0,0.57,30.0,10.0,PASS,LOW,prescreen_v2_batch_008.csv
+B07NPHVBLR,Amscan,Home & Kitchen,19.28,3.0,0.0,0.51,30.0,10.0,PASS,LOW,prescreen_v2_batch_008.csv
+B0931YSV6G,Amscan,Toys & Games,15.99,4.0,0.0,0.46,27.0,9.0,PASS,LOW,prescreen_v2_batch_008.csv
+B0C6NJ4MKL,Amscan,Toys & Games,17.96,3.0,0.07,0.39,27.0,9.0,PASS,LOW,prescreen_v2_batch_008.csv
+B078RMKB2Y,Amscan,Home & Kitchen,18.32,3.0,0.0,0.59,13.0,4.3,PASS,LOW,prescreen_v2_batch_008.csv
+B0C6NGPXYD,Amscan,Toys & Games,20.99,2.0,0.09,0.35,12.0,4.0,PASS,LOW,prescreen_v2_batch_008.csv
+B00725YYYY,Amscan,Home & Kitchen,24.5,3.0,0.0,0.46,9.0,3.0,PASS,LOW,prescreen_v2_batch_008.csv
+B07RWPDH26,Anolon,Home & Kitchen,87.84,4.0,0.14,0.54,41.0,50.0,PASS,C,prescreen_v2_batch_009.csv
+B00I9THJTO,Anolon,Home & Kitchen,66.51,2.0,0.28,0.39,48.0,16.0,PASS,LOW,prescreen_v2_batch_009.csv
+B0C1L4JQH3,Anolon,Home & Kitchen,149.0,3.0,0.22,0.37,48.0,16.0,PASS,LOW,prescreen_v2_batch_009.csv
+B0BBP92SC6,Anolon,Home & Kitchen,69.99,2.0,0.33,0.6,43.0,14.3,PASS,LOW,prescreen_v2_batch_009.csv
+B000CSP366,APC,Appliances,69.99,3.0,0.0,0.5,39.0,13.0,PASS,LOW,prescreen_v2_batch_009.csv
+B00DH6JWOO,APC,Electronics,93.99,5.0,0.0,0.46,6.0,2.0,PASS,LOW,prescreen_v2_batch_009.csv
+B0007UOSWY,attwood,Sports & Outdoors,133.99,3.0,0.28,0.28,48.0,50.0,PASS,C,prescreen_v2_batch_012.csv
+B00C7ATQE2,Baumgartens,Toys & Games,106.2,3.0,0.0,0.52,23.0,7.7,PASS,LOW,prescreen_v2_batch_014.csv
+B071F7ZMNQ,Bendon,Toys & Games,19.99,2.0,0.0,0.45,48.0,200.0,PASS,B,prescreen_v2_batch_016.csv
+1505021111,Bendon,Toys & Games,27.31,5.0,0.0,0.36,43.0,50.0,PASS,C,prescreen_v2_batch_016.csv
+B000ELUWKI,Bendon,Toys & Games,19.9,2.0,0.0,0.51,6.0,2.0,PASS,LOW,prescreen_v2_batch_016.csv
+B077Y1YSZ5,Berryman,Automotive,39.34,4.0,0.0,0.54,148.0,400.0,PASS,A,prescreen_v2_batch_016.csv
+B0002KKIJQ,Berryman,Automotive,42.67,3.0,0.0,0.37,53.0,100.0,PASS,C,prescreen_v2_batch_016.csv
+B00DSMEL2A,Berryman,Automotive,39.49,2.0,0.0,0.28,75.0,50.0,PASS,C,prescreen_v2_batch_016.csv
+B0057PUL52,BESSEY,Tools & Home Improvement,39.38,2.0,0.03,0.5,35.0,11.7,PASS,LOW,prescreen_v2_batch_016.csv
+B007V65I6C,BESSEY,Tools & Home Improvement,37.74,2.0,0.0,0.41,24.0,8.0,PASS,LOW,prescreen_v2_batch_016.csv
+B01LZSMQM0,BESSEY,Tools & Home Improvement,16.62,2.0,0.0,0.43,22.0,7.3,PASS,LOW,prescreen_v2_batch_016.csv
+B003XVR420,BESSEY,Tools & Home Improvement,40.85,2.0,0.0,0.43,17.0,5.7,PASS,LOW,prescreen_v2_batch_016.csv
+B09S6VM2G2,Big Potato,Toys & Games,24.99,2.0,0.0,0.59,51.0,100.0,PASS,C,prescreen_v2_batch_018.csv
+B0CX5DGY47,Big Potato,Toys & Games,29.99,3.0,0.0,0.5,114.0,50.0,PASS,C,prescreen_v2_batch_018.csv
+B01FPK2UR0,Blue Force Gear,Sports & Outdoors,22.88,6.0,0.0,0.45,46.0,100.0,PASS,C,prescreen_v2_batch_020.csv
+B09KDTT4DT,Blue Force Gear,Sports & Outdoors,83.99,2.0,0.0,0.4,44.0,50.0,PASS,C,prescreen_v2_batch_020.csv
+B09KDS2ZQL,Blue Force Gear,Sports & Outdoors,63.5,2.0,0.0,0.41,68.0,22.7,PASS,LOW,prescreen_v2_batch_020.csv
+B09KDYXQDB,Blue Force Gear,Sports & Outdoors,64.99,2.0,0.0,0.31,59.0,19.7,PASS,LOW,prescreen_v2_batch_020.csv
+B008SG12EQ,Blue Force Gear,Sports & Outdoors,18.45,3.0,0.0,0.51,49.0,16.3,PASS,LOW,prescreen_v2_batch_020.csv
+B085Z84D12,Blue Force Gear,Sports & Outdoors,34.2,2.0,0.0,0.5,31.0,10.3,PASS,LOW,prescreen_v2_batch_020.csv
+B001P6FTHC,Blue Sea Systems,Tools & Home Improvement,44.82,4.0,0.35,0.59,145.0,1000.0,PASS,A,prescreen_v2_batch_020.csv
+B000FOPE1G,Blue Sea Systems,Sports & Outdoors,46.85,3.0,0.14,0.57,119.0,50.0,PASS,C,prescreen_v2_batch_020.csv
+B014RC93BS,Blue Sea Systems,Automotive,272.64,2.0,0.26,0.39,32.0,10.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0D3HB6WZC,Blue Sky Clayworks,Home & Kitchen,31.19,3.0,0.0,0.4,36.0,12.0,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPTTYSM,Blue Sky Clayworks,Home & Kitchen,19.93,4.0,0.31,0.51,35.0,11.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLYJFPT,Blue Sky Clayworks,Home & Kitchen,59.09,3.0,0.23,0.49,33.0,11.0,PASS,LOW,prescreen_v2_batch_020.csv
+B09687Z4NF,Blue Sky Clayworks,Home & Kitchen,20.0,4.0,0.0,0.59,30.0,10.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLRCJLQ,Blue Sky Clayworks,Home & Kitchen,21.53,3.0,0.09,0.45,30.0,10.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLVSP43,Blue Sky Clayworks,Home & Kitchen,20.23,4.0,0.0,0.32,30.0,10.0,PASS,LOW,prescreen_v2_batch_020.csv
+B09R1KYDQJ,Blue Sky Clayworks,Home & Kitchen,63.89,4.0,0.0,0.55,28.0,9.3,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLRDNMT,Blue Sky Clayworks,"Patio, Lawn & Garden",37.0,2.0,0.0,0.41,27.0,9.0,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPV5QP5,Blue Sky Clayworks,Home & Kitchen,26.58,2.0,0.0,0.52,25.0,8.3,PASS,LOW,prescreen_v2_batch_020.csv
+B0FHGD828K,Blue Sky Clayworks,Home & Kitchen,35.98,3.0,0.0,0.54,24.0,8.0,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPTKBVP,Blue Sky Clayworks,Home & Kitchen,33.78,3.0,0.1,0.57,23.0,7.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLP18Z6,Blue Sky Clayworks,Tools & Home Improvement,40.0,3.0,0.09,0.53,22.0,7.3,PASS,LOW,prescreen_v2_batch_020.csv
+B0195KHUNU,Blue Sky Clayworks,Home & Kitchen,59.99,2.0,0.0,0.58,21.0,7.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0DWSC2KWH,Blue Sky Clayworks,Home & Kitchen,28.56,3.0,0.12,0.58,18.0,6.0,PASS,LOW,prescreen_v2_batch_020.csv
+B06XZB9MDV,Blue Sky Clayworks,Home & Kitchen,55.0,2.0,0.0,0.5,17.0,5.7,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPVQ7M1,Blue Sky Clayworks,Home & Kitchen,34.0,2.0,0.05,0.52,16.0,5.3,PASS,LOW,prescreen_v2_batch_020.csv
+B0CX1YH5TW,Blue Sky Clayworks,Home & Kitchen,46.19,3.0,0.0,0.5,16.0,5.3,PASS,LOW,prescreen_v2_batch_020.csv
+B083FFC41P,Blue Sky Clayworks,Home & Kitchen,46.54,3.0,0.0,0.51,15.0,5.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0C9SBJ73B,Blue Sky Clayworks,Home & Kitchen,71.65,2.0,0.2,0.45,14.0,4.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0DWSJ4X1D,Blue Sky Clayworks,Home & Kitchen,40.39,3.0,0.0,0.58,13.0,4.3,PASS,LOW,prescreen_v2_batch_020.csv
+B09R1L66Z2,Blue Sky Clayworks,Home & Kitchen,54.2,3.0,0.03,0.56,11.0,3.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0D8CRKSNZ,Blue Sky Clayworks,Home & Kitchen,36.98,2.0,0.31,0.33,11.0,3.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0DWSRZ6HX,Blue Sky Clayworks,Home & Kitchen,28.84,3.0,0.05,0.53,11.0,3.7,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPTL64B,Blue Sky Clayworks,Home & Kitchen,37.99,2.0,0.18,0.6,9.0,3.0,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPTFMYM,Blue Sky Clayworks,Home & Kitchen,63.99,3.0,0.1,0.59,8.0,2.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0CX1ZL379,Blue Sky Clayworks,Home & Kitchen,48.0,2.0,0.01,0.46,8.0,2.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0DZ6P5CJ2,Blue Sky Clayworks,Home & Kitchen,34.89,3.0,0.29,0.35,7.0,2.3,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLPN6Q2,Blue Sky Clayworks,Home & Kitchen,30.92,4.0,0.0,0.47,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0CTLS4B6J,Blue Sky Clayworks,Home & Kitchen,20.07,4.0,0.03,0.56,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0DVGZQZJ4,Blue Sky Clayworks,Home & Kitchen,39.72,4.0,0.22,0.27,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0FRG7JMBL,Blue Sky Clayworks,Home & Kitchen,58.98,2.0,0.0,0.59,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B0G3B51ZKV,Blue Sky Clayworks,Home & Kitchen,50.0,2.0,0.0,0.42,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B08PPSVKXQ,Blue Sky Clayworks,Home & Kitchen,62.42,2.0,0.0,0.6,5.0,1.7,PASS,LOW,prescreen_v2_batch_020.csv
+B0CX1ZBDJZ,Blue Sky Clayworks,Home & Kitchen,30.44,2.0,0.17,0.4,5.0,1.7,PASS,LOW,prescreen_v2_batch_020.csv
+B00IEH9WQE,Bobrick,Tools & Home Improvement,17.39,8.0,0.0,0.41,51.0,50.0,PASS,C,prescreen_v2_batch_020.csv
+B01HQJCJF6,Bobrick,Home & Kitchen,205.04,2.0,0.01,0.37,52.0,17.3,PASS,LOW,prescreen_v2_batch_020.csv
+B00996ADIA,Bobrick,Tools & Home Improvement,19.99,4.0,0.0,0.58,42.0,14.0,PASS,LOW,prescreen_v2_batch_020.csv
+B00H0OI6JG,Bobrick,Home & Kitchen,508.85,2.0,0.0,0.57,6.0,2.0,PASS,LOW,prescreen_v2_batch_020.csv
+B007W7ZUCW,bollé,Tools & Home Improvement,16.99,2.0,0.0,0.4,40.0,13.3,PASS,LOW,prescreen_v2_batch_021.csv
+B0CS1VSRGH,bollé,Sports & Outdoors,59.99,3.0,0.0,0.33,14.0,4.7,PASS,LOW,prescreen_v2_batch_021.csv
+B07RK48GKS,bollé,Sports & Outdoors,64.72,3.0,0.0,0.46,8.0,2.7,PASS,LOW,prescreen_v2_batch_021.csv
+B0DJN5894N,Brentwood,Home & Kitchen,42.74,2.0,0.27,0.53,44.0,14.7,PASS,LOW,prescreen_v2_batch_022.csv
+B003337IWO,Chapin International,"Patio, Lawn & Garden",21.44,5.0,0.0,0.38,45.0,100.0,PASS,C,prescreen_v2_batch_029.csv
+B09J57F69T,Chicco,Home & Kitchen,36.73,2.0,0.0,0.4,5.0,1.7,PASS,LOW,prescreen_v2_batch_030.csv
+B07FGJ64M6,Chinet,Home & Kitchen,34.7,2.0,0.0,0.4,31.0,700.0,PASS,A,prescreen_v2_batch_030.csv
+B001P6ZFG2,Cleanwaste,Sports & Outdoors,35.95,4.0,0.0,0.52,196.0,1000.0,PASS,A,prescreen_v2_batch_032.csv
+B01M8MG817,Cleanwaste,Sports & Outdoors,28.0,3.0,0.0,0.49,55.0,18.3,PASS,LOW,prescreen_v2_batch_032.csv
+B009A6VM1G,Cleanwaste,Sports & Outdoors,22.0,2.0,0.0,0.6,41.0,13.7,PASS,LOW,prescreen_v2_batch_032.csv
+B089KXQVTW,Cleanwaste,Sports & Outdoors,36.86,2.0,0.0,0.6,23.0,7.7,PASS,LOW,prescreen_v2_batch_032.csv
+B07DNX1YZ2,Cleanwaste,Sports & Outdoors,40.0,2.0,0.0,0.4,22.0,7.3,PASS,LOW,prescreen_v2_batch_032.csv
+B0DJ24NPRZ,Cleanwaste,Sports & Outdoors,37.99,3.0,0.0,0.44,18.0,6.0,PASS,LOW,prescreen_v2_batch_032.csv
+B0000ATP6A,Cleanwaste,Sports & Outdoors,283.99,2.0,0.0,0.56,14.0,4.7,PASS,LOW,prescreen_v2_batch_032.csv
+B07D9MT2JK,Club Mocchi Mocchi,Toys & Games,28.66,3.0,0.22,0.46,42.0,100.0,PASS,C,prescreen_v2_batch_032.csv
+B08S2RYKVR,Club Mocchi Mocchi,Toys & Games,31.99,3.0,0.0,0.48,59.0,50.0,PASS,C,prescreen_v2_batch_032.csv
+B09QH6G8BX,Club Mocchi Mocchi,Toys & Games,29.99,2.0,0.28,0.36,59.0,19.7,PASS,LOW,prescreen_v2_batch_032.csv
+B0DYVRFYVV,Club Mocchi Mocchi,Toys & Games,19.99,5.0,0.0,0.42,50.0,16.7,PASS,LOW,prescreen_v2_batch_032.csv
+B0CYZZW93V,Club Mocchi Mocchi,Toys & Games,20.81,6.0,0.0,0.33,46.0,15.3,PASS,LOW,prescreen_v2_batch_032.csv
+B0CWB3TNC6,Club Mocchi Mocchi,Toys & Games,19.99,8.0,0.0,0.38,44.0,14.7,PASS,LOW,prescreen_v2_batch_032.csv
+B0D7MYJZH3,Club Mocchi Mocchi,Toys & Games,21.09,3.0,0.02,0.37,39.0,13.0,PASS,LOW,prescreen_v2_batch_032.csv
+B0CWB2XB89,Club Mocchi Mocchi,Toys & Games,21.99,4.0,0.0,0.33,38.0,12.7,PASS,LOW,prescreen_v2_batch_032.csv
+B0BF5XSRQ2,Club Mocchi Mocchi,Toys & Games,21.3,4.0,0.0,0.48,29.0,9.7,PASS,LOW,prescreen_v2_batch_032.csv
+B0DXLC4SKK,Club Mocchi Mocchi,Toys & Games,17.99,2.0,0.27,0.38,22.0,7.3,PASS,LOW,prescreen_v2_batch_032.csv
+B096BMYDNF,CoComelon,Toys & Games,24.95,2.0,0.0,0.28,80.0,26.7,PASS,LOW,prescreen_v2_batch_033.csv
+B08FKHW61G,CoComelon,Toys & Games,21.74,7.0,0.0,0.2,49.0,16.3,PASS,LOW,prescreen_v2_batch_033.csv
+B08T4BXDZW,CoComelon,Toys & Games,29.95,3.0,0.0,0.55,29.0,9.7,PASS,LOW,prescreen_v2_batch_033.csv
+B00XLTYQCA,Combat,"Patio, Lawn & Garden",48.14,2.0,0.02,0.49,75.0,25.0,PASS,LOW,prescreen_v2_batch_034.csv
+B07H44NX4T,Con-Tact,Home & Kitchen,24.84,9.0,0.0,0.26,39.0,50.0,PASS,C,prescreen_v2_batch_034.csv
+B0B5BH8ZRN,Con-Tact,Home & Kitchen,16.1,2.0,0.25,0.42,81.0,27.0,PASS,LOW,prescreen_v2_batch_034.csv
+B01KYI5FQ6,Cordova,Tools & Home Improvement,63.99,2.0,0.35,0.35,42.0,14.0,PASS,LOW,prescreen_v2_batch_035.csv
+B09N3Z66TS,Corolle,Toys & Games,34.92,2.0,0.0,0.51,37.0,200.0,PASS,B,prescreen_v2_batch_035.csv
+B0CL7THRFX,Corolle,Toys & Games,44.95,3.0,0.18,0.27,48.0,100.0,PASS,C,prescreen_v2_batch_035.csv
+B0D2PCDDBF,Corolle,Toys & Games,43.0,4.0,0.0,0.57,47.0,15.7,PASS,LOW,prescreen_v2_batch_035.csv
+B082PGH8WC,Corolle,Toys & Games,37.95,3.0,0.31,0.31,44.0,14.7,PASS,LOW,prescreen_v2_batch_035.csv
+B0BQYW132G,Corolle,Toys & Games,74.95,2.0,0.0,0.51,39.0,13.0,PASS,LOW,prescreen_v2_batch_035.csv
+B0D6XT8BFM,Dark Energy,"Patio, Lawn & Garden",198.95,2.0,0.0,0.34,43.0,14.3,PASS,LOW,prescreen_v2_batch_039.csv
+B00DOKB64C,DuPont,Tools & Home Improvement,240.09,2.0,0.21,0.38,63.0,21.0,PASS,LOW,prescreen_v2_batch_045.csv
+B00065TPK0,Dynabrade,Tools & Home Improvement,207.56,3.0,0.0,0.3,48.0,50.0,PASS,C,prescreen_v2_batch_045.csv
+B001VY1ADU,Dynabrade,Tools & Home Improvement,255.77,3.0,0.0,0.4,45.0,15.0,PASS,LOW,prescreen_v2_batch_045.csv
+B000R6XNYC,Dynabrade,Tools & Home Improvement,27.37,2.0,0.0,0.39,44.0,14.7,PASS,LOW,prescreen_v2_batch_045.csv
+B07QHN2FTN,Dynabrade,Tools & Home Improvement,406.8,2.0,0.21,0.59,36.0,12.0,PASS,LOW,prescreen_v2_batch_045.csv
+B07P8ZYXC8,Dynabrade,Tools & Home Improvement,153.07,2.0,0.0,0.52,35.0,11.7,PASS,LOW,prescreen_v2_batch_045.csv
+B07V2P6MQ1,Dynabrade,Tools & Home Improvement,308.76,2.0,0.0,0.38,22.0,7.3,PASS,LOW,prescreen_v2_batch_045.csv
+B000XRTZJ2,Dynabrade,Tools & Home Improvement,31.6,2.0,0.0,0.3,20.0,6.7,PASS,LOW,prescreen_v2_batch_045.csv
+B005TITYMS,Dynabrade,Tools & Home Improvement,530.4,3.0,0.0,0.55,15.0,5.0,PASS,LOW,prescreen_v2_batch_045.csv
+B005TIUK4Y,Dynabrade,Tools & Home Improvement,255.77,2.0,0.0,0.22,12.0,4.0,PASS,LOW,prescreen_v2_batch_045.csv
+B007UUAP7G,Dynabrade,Tools & Home Improvement,270.51,2.0,0.0,0.6,7.0,2.3,PASS,LOW,prescreen_v2_batch_045.csv
+B07TW9934V,Dynabrade,Tools & Home Improvement,407.5,2.0,0.0,0.45,5.0,1.7,PASS,LOW,prescreen_v2_batch_045.csv
+B01M4OCA0Y,E-Blox,Toys & Games,47.96,2.0,0.0,0.54,56.0,18.7,PASS,LOW,prescreen_v2_batch_045.csv
+B01MG575LU,E-Blox,Toys & Games,22.49,5.0,0.0,0.49,47.0,15.7,PASS,LOW,prescreen_v2_batch_045.csv
+B0CPRRQB3D,E-Blox,Toys & Games,26.01,3.0,0.03,0.35,23.0,7.7,PASS,LOW,prescreen_v2_batch_045.csv
+B09JKZTHFH,E-Blox,Toys & Games,18.82,2.0,0.0,0.47,17.0,5.7,PASS,LOW,prescreen_v2_batch_045.csv
+B07JDFX63N,E-Blox,Toys & Games,28.78,2.0,0.0,0.51,5.0,1.7,PASS,LOW,prescreen_v2_batch_045.csv
+B003ZZ6GTQ,Eagle Claw,Sports & Outdoors,19.2,2.0,0.0,0.58,36.0,12.0,PASS,LOW,prescreen_v2_batch_046.csv
+B000WFSVRC,earthbath,Pet Supplies,73.99,3.0,0.0,0.59,211.0,50.0,PASS,C,prescreen_v2_batch_046.csv
+B000WFEKEA,earthbath,Pet Supplies,73.7,2.0,0.0,0.52,41.0,13.7,PASS,LOW,prescreen_v2_batch_046.csv
+B015KP7XDQ,earthbath,Pet Supplies,73.99,2.0,0.0,0.58,29.0,9.7,PASS,LOW,prescreen_v2_batch_046.csv
+B08DMW5CZV,Ebros Gift,Home & Kitchen,33.45,3.0,0.0,0.42,19.0,6.3,PASS,LOW,prescreen_v2_batch_046.csv
+B004LCJJS2,eeBoo,Toys & Games,19.93,3.0,0.29,0.29,34.0,11.3,PASS,LOW,prescreen_v2_batch_047.csv
+B084H15VS5,eeBoo,Toys & Games,19.99,3.0,0.0,0.54,29.0,9.7,PASS,LOW,prescreen_v2_batch_047.csv
+B07XFFN47W,eeBoo,Toys & Games,18.06,2.0,0.0,0.6,14.0,4.7,PASS,LOW,prescreen_v2_batch_047.csv
+B0CT1QX7HW,FLEX,Tools & Home Improvement,184.95,10.0,0.0,0.21,41.0,13.7,PASS,LOW,prescreen_v2_batch_054.csv
+B0CZW848H1,FLEX,Tools & Home Improvement,45.4,4.0,0.3,0.32,14.0,4.7,PASS,LOW,prescreen_v2_batch_054.csv
+B0C9H54GLX,Fluke,Industrial & Scientific,429.3,4.0,0.16,0.42,56.0,50.0,PASS,C,prescreen_v2_batch_054.csv
+B09BHJNMZK,Fluke,Industrial & Scientific,548.0,2.0,0.3,0.4,62.0,20.7,PASS,LOW,prescreen_v2_batch_054.csv
+B00VURQDHQ,Fluke,Tools & Home Improvement,166.0,2.0,0.0,0.56,43.0,14.3,PASS,LOW,prescreen_v2_batch_054.csv
+B006RIE65E,Fluke,Industrial & Scientific,647.29,2.0,0.32,0.32,40.0,13.3,PASS,LOW,prescreen_v2_batch_054.csv
+B073S9XYYK,FOXPRO,Sports & Outdoors,29.0,2.0,0.0,0.4,43.0,14.3,PASS,LOW,prescreen_v2_batch_055.csv
+B000G7777Q,Galco,Sports & Outdoors,26.19,4.0,0.0,0.55,72.0,24.0,PASS,LOW,prescreen_v2_batch_058.csv
+B00LL3CRGA,Galco,Sports & Outdoors,37.45,3.0,0.0,0.36,48.0,16.0,PASS,LOW,prescreen_v2_batch_058.csv
+B0DXL7WB75,Galco,Sports & Outdoors,110.78,2.0,0.0,0.51,34.0,11.3,PASS,LOW,prescreen_v2_batch_058.csv
+B000STIXD4,Galco,Sports & Outdoors,219.48,2.0,0.0,0.59,33.0,11.0,PASS,LOW,prescreen_v2_batch_058.csv
+B001GXCW7Y,Galco,Sports & Outdoors,226.0,3.0,0.0,0.43,25.0,8.3,PASS,LOW,prescreen_v2_batch_058.csv
+B00162TDEA,Galco,Sports & Outdoors,104.78,2.0,0.0,0.42,21.0,7.0,PASS,LOW,prescreen_v2_batch_058.csv
+B003UGGI5W,Galco,Sports & Outdoors,106.28,4.0,0.0,0.51,17.0,5.7,PASS,LOW,prescreen_v2_batch_058.csv
+B001F0IJCK,Galco,Sports & Outdoors,67.79,2.0,0.0,0.39,16.0,5.3,PASS,LOW,prescreen_v2_batch_058.csv
+B000WW41EC,Galco,Sports & Outdoors,119.99,3.0,0.0,0.55,14.0,4.7,PASS,LOW,prescreen_v2_batch_058.csv
+B00121X9ZY,Galco,Sports & Outdoors,104.95,2.0,0.0,0.33,14.0,4.7,PASS,LOW,prescreen_v2_batch_058.csv
+B09T4SCK9Z,Galco,Sports & Outdoors,104.65,2.0,0.0,0.54,14.0,4.7,PASS,LOW,prescreen_v2_batch_058.csv
+B097DK9WD7,Galco,Sports & Outdoors,112.99,2.0,0.0,0.31,12.0,4.0,PASS,LOW,prescreen_v2_batch_058.csv
+B000N8OOCO,Galco,Sports & Outdoors,129.62,2.0,0.0,0.37,10.0,3.3,PASS,LOW,prescreen_v2_batch_058.csv
+B00162NSOG,Galco,Sports & Outdoors,123.6,2.0,0.0,0.34,10.0,3.3,PASS,LOW,prescreen_v2_batch_058.csv
+B001IVI01G,Galco,Sports & Outdoors,94.5,2.0,0.0,0.47,10.0,3.3,PASS,LOW,prescreen_v2_batch_058.csv
+B001RMUPPU,Galco,Sports & Outdoors,141.98,2.0,0.0,0.39,10.0,3.3,PASS,LOW,prescreen_v2_batch_058.csv
+B001RMY7KY,Galco,Sports & Outdoors,103.36,2.0,0.0,0.26,10.0,3.3,PASS,LOW,prescreen_v2_batch_058.csv
+B0000C52Q3,Galco,Sports & Outdoors,93.98,3.0,0.0,0.52,9.0,3.0,PASS,LOW,prescreen_v2_batch_058.csv
+B001GXHESQ,Galco,Sports & Outdoors,216.84,2.0,0.0,0.6,9.0,3.0,PASS,LOW,prescreen_v2_batch_058.csv
+B002I9TUXO,Galco,Sports & Outdoors,84.07,2.0,0.0,0.35,9.0,3.0,PASS,LOW,prescreen_v2_batch_058.csv
+B000NSB4W2,Galco,Sports & Outdoors,61.41,3.0,0.0,0.48,8.0,2.7,PASS,LOW,prescreen_v2_batch_058.csv
+B007AUNF1O,Galco,Sports & Outdoors,18.96,2.0,0.0,0.57,7.0,2.3,PASS,LOW,prescreen_v2_batch_058.csv
+B00LIQY91Q,Galco,Sports & Outdoors,59.95,2.0,0.0,0.52,7.0,2.3,PASS,LOW,prescreen_v2_batch_058.csv
+B00PWB7OYC,Gamo,Sports & Outdoors,79.99,2.0,0.0,0.54,41.0,50.0,PASS,C,prescreen_v2_batch_058.csv
+B07TDBNCZT,Gamo,Sports & Outdoors,27.95,3.0,0.0,0.33,47.0,15.7,PASS,LOW,prescreen_v2_batch_058.csv
+B07B71CJQQ,Gamo,Sports & Outdoors,79.99,3.0,0.02,0.43,39.0,13.0,PASS,LOW,prescreen_v2_batch_058.csv
+B07BWYXLC4,Gamo,Sports & Outdoors,48.41,4.0,0.21,0.46,39.0,13.0,PASS,LOW,prescreen_v2_batch_058.csv
+B07T5FJJB4,Gonesh,Home & Kitchen,16.97,2.0,0.0,0.55,27.0,9.0,PASS,LOW,prescreen_v2_batch_063.csv
+B0D9PJ28TS,Gonesh,Home & Kitchen,18.39,2.0,0.0,0.56,25.0,8.3,PASS,LOW,prescreen_v2_batch_063.csv
+B0CLG4TFVR,Gonesh,Home & Kitchen,15.83,2.0,0.0,0.51,18.0,6.0,PASS,LOW,prescreen_v2_batch_063.csv
+B0CKJ7TZ9W,Gonesh,Home & Kitchen,20.39,2.0,0.0,0.5,15.0,5.0,PASS,LOW,prescreen_v2_batch_063.csv
+B0CKJ7VXDB,Gonesh,Home & Kitchen,19.38,2.0,0.0,0.53,14.0,4.7,PASS,LOW,prescreen_v2_batch_063.csv
+B000AOA434,Greenfield,Sports & Outdoors,18.66,2.0,0.0,0.55,43.0,14.3,PASS,LOW,prescreen_v2_batch_064.csv
+B00WJCE8X2,Guardian Fall Protection,Tools & Home Improvement,87.09,2.0,0.0,0.37,47.0,50.0,PASS,C,prescreen_v2_batch_066.csv
+B00B2VFWUE,Gun Butter,Sports & Outdoors,15.46,3.0,0.0,0.47,55.0,200.0,PASS,B,prescreen_v2_batch_066.csv
+B0FFTP3RRG,Gun Butter,Toys & Games,20.8,7.0,0.0,0.38,42.0,100.0,PASS,C,prescreen_v2_batch_066.csv
+B000CPIMTO,Gunk,Automotive,17.77,2.0,0.0,0.46,53.0,17.7,PASS,LOW,prescreen_v2_batch_066.csv
+B09RHL2SRC,Handmade by Robots,Toys & Games,23.8,3.0,0.01,0.43,9.0,3.0,PASS,LOW,prescreen_v2_batch_067.csv
+B09V1JMHDN,Handmade by Robots,Toys & Games,18.62,2.0,0.0,0.54,9.0,3.0,PASS,LOW,prescreen_v2_batch_067.csv
+B084LYKCW9,Handstand Kitchen,Home & Kitchen,29.99,2.0,0.0,0.51,5.0,1.7,PASS,LOW,prescreen_v2_batch_067.csv
+B07HXBNKWC,HexArmor,Tools & Home Improvement,24.99,2.0,0.0,0.56,42.0,14.0,PASS,LOW,prescreen_v2_batch_070.csv
+B000XJKD9G,HMC Holdings LLC - Homak,Tools & Home Improvement,33.98,2.0,0.0,0.57,43.0,14.3,PASS,LOW,prescreen_v2_batch_072.csv
+B00361V0RW,Hollis,Sports & Outdoors,96.0,14.0,0.0,0.19,45.0,200.0,PASS,B,prescreen_v2_batch_072.csv
+B005OTX0E0,Hollis,Sports & Outdoors,94.95,2.0,0.0,0.56,25.0,8.3,PASS,LOW,prescreen_v2_batch_072.csv
+B093TM269Y,Hollis,Sports & Outdoors,629.95,6.0,0.0,0.43,22.0,7.3,PASS,LOW,prescreen_v2_batch_072.csv
+B008Z6CJX2,Hollis,Sports & Outdoors,159.95,3.0,0.0,0.31,20.0,6.7,PASS,LOW,prescreen_v2_batch_072.csv
+B093TMH618,Hollis,Sports & Outdoors,629.95,3.0,0.0,0.49,20.0,6.7,PASS,LOW,prescreen_v2_batch_072.csv
+B009AFIIPA,Hollis,Sports & Outdoors,159.95,4.0,0.0,0.38,19.0,6.3,PASS,LOW,prescreen_v2_batch_072.csv
+B093VMK837,Hollis,Sports & Outdoors,629.95,2.0,0.0,0.56,19.0,6.3,PASS,LOW,prescreen_v2_batch_072.csv
+B00H8XG9HA,Hollis,Sports & Outdoors,114.95,5.0,0.0,0.4,18.0,6.0,PASS,LOW,prescreen_v2_batch_072.csv
+B00CL8WG6A,Hollis,Sports & Outdoors,134.95,6.0,0.0,0.28,13.0,4.3,PASS,LOW,prescreen_v2_batch_072.csv
+B01E4X7EAC,Hollis,Sports & Outdoors,54.95,2.0,0.0,0.53,12.0,4.0,PASS,LOW,prescreen_v2_batch_072.csv
+B089C29N1F,Hollis,Sports & Outdoors,199.95,2.0,0.0,0.49,12.0,4.0,PASS,LOW,prescreen_v2_batch_072.csv
+B00H8ZO48Y,Hollis,Sports & Outdoors,164.95,5.0,0.0,0.39,10.0,3.3,PASS,LOW,prescreen_v2_batch_072.csv
+B0BLXZSCS3,If You Care,Home & Kitchen,18.63,3.0,0.0,0.55,81.0,900.0,PASS,A,prescreen_v2_batch_075.csv
+B0BLKTW3FD,If You Care,Home & Kitchen,27.9,2.0,0.0,0.55,99.0,100.0,PASS,C,prescreen_v2_batch_075.csv
+B001IZIB2A,If You Care,Home & Kitchen,28.26,3.0,0.0,0.35,36.0,12.0,PASS,LOW,prescreen_v2_batch_075.csv
+B0083KW3UY,If You Care,Home & Kitchen,23.94,3.0,0.0,0.49,35.0,11.7,PASS,LOW,prescreen_v2_batch_075.csv
+B09C11N37G,iscream,Home & Kitchen,37.99,3.0,0.0,0.46,40.0,100.0,PASS,C,prescreen_v2_batch_078.csv
+B07XM9BPKH,iscream,Home & Kitchen,111.11,2.0,0.0,0.31,54.0,18.0,PASS,LOW,prescreen_v2_batch_078.csv
+B0D228G9KJ,iscream,Home & Kitchen,31.89,3.0,0.0,0.54,43.0,14.3,PASS,LOW,prescreen_v2_batch_078.csv
+B0G4PKCWYZ,iscream,Home & Kitchen,38.99,2.0,0.0,0.44,36.0,12.0,PASS,LOW,prescreen_v2_batch_078.csv
+B0GP74DMLN,iscream,Home & Kitchen,39.55,2.0,0.0,0.44,31.0,10.3,PASS,LOW,prescreen_v2_batch_078.csv
+B0FHKLYRSR,iscream,Home & Kitchen,42.0,2.0,0.0,0.57,26.0,8.7,PASS,LOW,prescreen_v2_batch_078.csv
+B0F8Q4L23P,iscream,Home & Kitchen,39.99,2.0,0.0,0.56,21.0,7.0,PASS,LOW,prescreen_v2_batch_078.csv
+B0F8Q67XY6,iscream,Home & Kitchen,39.99,2.0,0.0,0.56,20.0,6.7,PASS,LOW,prescreen_v2_batch_078.csv
+B000O8F9BI,Jabsco,Sports & Outdoors,201.08,2.0,0.22,0.24,7.0,100.0,PASS,C,prescreen_v2_batch_079.csv
+B07LFVBFCW,Jackson,Musical Instruments,269.99,2.0,0.0,0.31,76.0,25.3,PASS,LOW,prescreen_v2_batch_079.csv
+B07LFW295H,Jackson,Musical Instruments,269.99,3.0,0.0,0.52,47.0,15.7,PASS,LOW,prescreen_v2_batch_079.csv
+B001L8NGYW,Jackson,Musical Instruments,269.99,2.0,0.28,0.49,43.0,14.3,PASS,LOW,prescreen_v2_batch_079.csv
+B07LFVLQ7T,Jackson,Musical Instruments,269.99,2.0,0.0,0.49,32.0,10.7,PASS,LOW,prescreen_v2_batch_079.csv
+B07G3CPM4T,Jackson,Musical Instruments,219.99,2.0,0.0,0.36,24.0,8.0,PASS,LOW,prescreen_v2_batch_079.csv
+B07G3D86TK,Jackson,Musical Instruments,239.99,3.0,0.0,0.54,23.0,7.7,PASS,LOW,prescreen_v2_batch_079.csv
+B07N7MNQBL,Jackson,Musical Instruments,319.99,2.0,0.0,0.6,23.0,7.7,PASS,LOW,prescreen_v2_batch_079.csv
+B07LFVPRSF,Jackson,Musical Instruments,249.99,3.0,0.0,0.53,16.0,5.3,PASS,LOW,prescreen_v2_batch_079.csv
+B07N1XFPMD,Jackson,Musical Instruments,229.99,3.0,0.0,0.35,11.0,3.7,PASS,LOW,prescreen_v2_batch_079.csv
+B000LG8DLG,Jet-Lube,Automotive,22.7,3.0,0.0,0.5,52.0,17.3,PASS,LOW,prescreen_v2_batch_080.csv
+B00DE1IBV2,Jet-Lube,Automotive,40.16,2.0,0.0,0.44,18.0,6.0,PASS,LOW,prescreen_v2_batch_080.csv
+B0077RG0LM,Kishigo,Tools & Home Improvement,22.45,2.0,0.0,0.52,39.0,13.0,PASS,LOW,prescreen_v2_batch_086.csv
+B01ENNLBSY,Klean Kanteen,Sports & Outdoors,19.99,4.0,0.0,0.5,11.0,3.7,PASS,LOW,prescreen_v2_batch_086.csv
+B07BK4DQN1,KYOKU,Home & Kitchen,109.99,2.0,0.0,0.6,64.0,21.3,PASS,LOW,prescreen_v2_batch_088.csv
+B07BK2HSPQ,KYOKU,Home & Kitchen,44.99,2.0,0.0,0.48,57.0,19.0,PASS,LOW,prescreen_v2_batch_088.csv
+B0C36T7N5T,KYOKU,Home & Kitchen,34.99,2.0,0.0,0.51,55.0,18.3,PASS,LOW,prescreen_v2_batch_088.csv
+B07846CTZS,Lillian Tablesettings,Home & Kitchen,24.99,2.0,0.0,0.45,44.0,14.7,PASS,LOW,prescreen_v2_batch_092.csv
+B0D9M2HS2Z,Littlest Pet Shop,Toys & Games,26.0,10.0,0.0,0.3,40.0,50.0,PASS,C,prescreen_v2_batch_093.csv
+B0FF45575K,Littlest Pet Shop,Toys & Games,19.19,5.0,0.0,0.54,48.0,50.0,PASS,C,prescreen_v2_batch_093.csv
+B0CD849X9Z,Littlest Pet Shop,Toys & Games,37.0,2.0,0.0,0.25,68.0,22.7,PASS,LOW,prescreen_v2_batch_093.csv
+B0CTHKC3FG,Littlest Pet Shop,Toys & Games,26.14,7.0,0.0,0.65,51.0,17.0,PASS,LOW,prescreen_v2_batch_093.csv
+B0CPF5G8LH,Littlest Pet Shop,Toys & Games,41.75,3.0,0.0,0.53,38.0,12.7,PASS,LOW,prescreen_v2_batch_093.csv
+B0D5MLH4BC,Littlest Pet Shop,Toys & Games,22.4,4.0,0.0,0.45,34.0,11.3,PASS,LOW,prescreen_v2_batch_093.csv
+B0CPF488B3,Littlest Pet Shop,Toys & Games,24.77,5.0,0.0,0.41,28.0,9.3,PASS,LOW,prescreen_v2_batch_093.csv
+B0DFY5TFNS,Littlest Pet Shop,Toys & Games,15.95,2.0,0.0,0.56,19.0,6.3,PASS,LOW,prescreen_v2_batch_093.csv
+B0DT4Z7F9R,Littlest Pet Shop,Toys & Games,18.04,2.0,0.0,0.2,19.0,6.3,PASS,LOW,prescreen_v2_batch_093.csv
+B0F5QZSKND,Littlest Pet Shop,Toys & Games,34.95,2.0,0.0,0.45,14.0,4.7,PASS,LOW,prescreen_v2_batch_093.csv
+B0DT4YVYKD,Littlest Pet Shop,Toys & Games,25.0,3.0,0.0,0.31,9.0,3.0,PASS,LOW,prescreen_v2_batch_093.csv
+B0DC1PVRC7,Littlest Pet Shop,Toys & Games,27.99,2.0,0.0,0.53,8.0,2.7,PASS,LOW,prescreen_v2_batch_093.csv
+B000U0H8PK,Louisville Ladder,Tools & Home Improvement,19.81,2.0,0.22,0.4,43.0,14.3,PASS,LOW,prescreen_v2_batch_094.csv
+B07N58QRMB,Lowrance,Electronics,333.0,6.0,0.23,0.34,52.0,100.0,PASS,C,prescreen_v2_batch_094.csv
+B0CY3BXJ2M,Lowrance,Electronics,541.86,8.0,0.21,0.34,172.0,50.0,PASS,C,prescreen_v2_batch_094.csv
+B0CY3HPPSH,Lowrance,Electronics,455.32,4.0,0.22,0.3,111.0,50.0,PASS,C,prescreen_v2_batch_094.csv
+B0DDWS6W4F,Lowrance,Electronics,949.01,3.0,0.16,0.42,72.0,50.0,PASS,C,prescreen_v2_batch_094.csv
+B0CY3PFFHS,Lowrance,Electronics,497.08,2.0,0.32,0.32,142.0,47.3,PASS,LOW,prescreen_v2_batch_094.csv
+B08NP5KVJB,Lowrance,Electronics,885.32,3.0,0.13,0.41,71.0,23.7,PASS,LOW,prescreen_v2_batch_094.csv
+B0DLRC6WHN,Lowrance,Electronics,1794.9,2.0,0.28,0.3,70.0,23.3,PASS,LOW,prescreen_v2_batch_094.csv
+B08NPVQLFB,Lowrance,Electronics,799.0,3.0,0.01,0.49,68.0,22.7,PASS,LOW,prescreen_v2_batch_094.csv
+B0DLRY8DQY,Lowrance,Electronics,1999.0,2.0,0.31,0.31,64.0,21.3,PASS,LOW,prescreen_v2_batch_094.csv
+B0C951X9JG,Lowrance,Electronics,2299.0,2.0,0.11,0.36,50.0,16.7,PASS,LOW,prescreen_v2_batch_094.csv
+B0C954HTX8,Lowrance,Electronics,1799.0,2.0,0.09,0.4,46.0,15.3,PASS,LOW,prescreen_v2_batch_094.csv
+B0C9F7VC3S,Lowrance,Electronics,1399.0,3.0,0.35,0.35,43.0,14.3,PASS,LOW,prescreen_v2_batch_094.csv
+B003TNSMQO,Lowrance,Electronics,26.97,2.0,0.0,0.49,42.0,14.0,PASS,LOW,prescreen_v2_batch_094.csv
+B078YNZ1HT,Lowrance,Electronics,18.99,2.0,0.0,0.44,33.0,11.0,PASS,LOW,prescreen_v2_batch_094.csv
+B07JFB2CST,Lowrance,Electronics,253.3,2.0,0.3,0.55,16.0,5.3,PASS,LOW,prescreen_v2_batch_094.csv
+B000OTN02M,Lowrance,Electronics,62.98,2.0,0.0,0.55,15.0,5.0,PASS,LOW,prescreen_v2_batch_094.csv
+B07ZPDKPT6,Lowrance,Sports & Outdoors,3132.77,2.0,0.27,0.37,15.0,5.0,PASS,LOW,prescreen_v2_batch_094.csv
+B0046CDTP6,Lowrance,Electronics,35.57,2.0,0.29,0.45,14.0,4.7,PASS,LOW,prescreen_v2_batch_094.csv
+B000RZ0HRE,Lyman,Sports & Outdoors,37.98,3.0,0.0,0.41,44.0,100.0,PASS,C,prescreen_v2_batch_095.csv
+B000MITQ1Y,Lyman,Sports & Outdoors,20.67,6.0,0.18,0.46,47.0,50.0,PASS,C,prescreen_v2_batch_095.csv
+B002E6V282,Lyman,Sports & Outdoors,21.99,3.0,0.06,0.33,44.0,50.0,PASS,C,prescreen_v2_batch_095.csv
+B001AMZXQI,Lyman,Sports & Outdoors,42.97,2.0,0.17,0.41,52.0,17.3,PASS,LOW,prescreen_v2_batch_095.csv
+B0002INPFW,Lyman,Sports & Outdoors,39.99,2.0,0.05,0.54,46.0,15.3,PASS,LOW,prescreen_v2_batch_095.csv
+B000N8OEQ0,Lyman,Sports & Outdoors,56.99,3.0,0.0,0.44,46.0,15.3,PASS,LOW,prescreen_v2_batch_095.csv
+B000KKB5SQ,Lyman,"Patio, Lawn & Garden",40.51,4.0,0.0,0.31,44.0,14.7,PASS,LOW,prescreen_v2_batch_095.csv
+B000VUE2MG,Lyman,Sports & Outdoors,39.02,3.0,0.28,0.6,42.0,14.0,PASS,LOW,prescreen_v2_batch_095.csv
+B000UUMX0K,Lyman,Sports & Outdoors,44.98,2.0,0.0,0.36,41.0,13.7,PASS,LOW,prescreen_v2_batch_095.csv
+B09SJKJQM5,Lyman,Sports & Outdoors,19.18,8.0,0.05,0.34,41.0,13.7,PASS,LOW,prescreen_v2_batch_095.csv
+B000LC28XO,Lyman,Sports & Outdoors,19.79,2.0,0.0,0.52,39.0,13.0,PASS,LOW,prescreen_v2_batch_095.csv
+B00AU6C7MI,Lyman,Sports & Outdoors,43.91,2.0,0.0,0.18,38.0,12.7,PASS,LOW,prescreen_v2_batch_095.csv
+B00162SAQ2,Lyman,Sports & Outdoors,32.24,3.0,0.0,0.42,37.0,12.3,PASS,LOW,prescreen_v2_batch_095.csv
+B0053WU3SE,Lyman,Sports & Outdoors,19.4,2.0,0.0,0.49,37.0,12.3,PASS,LOW,prescreen_v2_batch_095.csv
+B000N8HVNI,Lyman,Sports & Outdoors,39.99,2.0,0.0,0.55,36.0,12.0,PASS,LOW,prescreen_v2_batch_095.csv
+B086LLXSC1,Lyman,Sports & Outdoors,23.61,3.0,0.13,0.48,22.0,7.3,PASS,LOW,prescreen_v2_batch_095.csv
+B0876HFGTL,Lyman,Sports & Outdoors,35.0,4.0,0.0,0.6,22.0,7.3,PASS,LOW,prescreen_v2_batch_095.csv
+B01F2P7ECY,Lyman,Sports & Outdoors,40.0,3.0,0.0,0.41,21.0,7.0,PASS,LOW,prescreen_v2_batch_095.csv
+B0876GXF9R,Lyman,Sports & Outdoors,36.14,3.0,0.0,0.49,21.0,7.0,PASS,LOW,prescreen_v2_batch_095.csv
+B0DX8BFSQZ,Lyman,Sports & Outdoors,77.81,2.0,0.0,0.25,21.0,7.0,PASS,LOW,prescreen_v2_batch_095.csv
+B000N8LDX2,Lyman,Sports & Outdoors,48.63,2.0,0.0,0.59,20.0,6.7,PASS,LOW,prescreen_v2_batch_095.csv
+B0000V2E5S,Lyman,Sports & Outdoors,52.8,3.0,0.0,0.44,19.0,6.3,PASS,LOW,prescreen_v2_batch_095.csv
+B001QD9XQ2,Lyman,Sports & Outdoors,33.3,4.0,0.0,0.39,16.0,5.3,PASS,LOW,prescreen_v2_batch_095.csv
+B000VUFPPE,Lyman,Sports & Outdoors,45.72,3.0,0.0,0.48,15.0,5.0,PASS,LOW,prescreen_v2_batch_095.csv
+B002L9EA0E,Lyman,Sports & Outdoors,18.5,2.0,0.0,0.57,8.0,2.7,PASS,LOW,prescreen_v2_batch_095.csv
+B01G9G9T5A,Lyman,Sports & Outdoors,35.0,2.0,0.0,0.54,8.0,2.7,PASS,LOW,prescreen_v2_batch_095.csv
+B07MY4LSQ4,Lyman,Sports & Outdoors,18.97,2.0,0.0,0.46,8.0,2.7,PASS,LOW,prescreen_v2_batch_095.csv
+B08X4ZX456,Makedo,Toys & Games,55.0,2.0,0.0,0.43,97.0,500.0,PASS,A,prescreen_v2_batch_097.csv
+B08X4ZJQT2,Makedo,Toys & Games,27.5,3.0,0.0,0.47,85.0,400.0,PASS,A,prescreen_v2_batch_097.csv
+B0DPF2QHKL,Makedo,Toys & Games,128.5,2.0,0.0,0.57,45.0,15.0,PASS,LOW,prescreen_v2_batch_097.csv
+B07KY1GWND,MARTIN,Musical Instruments,27.99,2.0,0.0,0.42,25.0,8.3,PASS,LOW,prescreen_v2_batch_098.csv
+B0B3Q12G9N,Martin Yale,Office Products,319.0,2.0,0.0,0.53,25.0,8.3,PASS,LOW,prescreen_v2_batch_098.csv
+B0057XXUDY,Martin Yale,Office Products,73.06,2.0,0.0,0.51,17.0,5.7,PASS,LOW,prescreen_v2_batch_098.csv
+B00024XTR0,Martin Yale,Office Products,1198.0,3.0,0.0,0.55,15.0,5.0,PASS,LOW,prescreen_v2_batch_098.csv
+B0DB1B6TSK,Marucci,Sports & Outdoors,199.95,2.0,0.09,0.48,15.0,5.0,PASS,LOW,prescreen_v2_batch_098.csv
+B07GJWS9H2,Mary Meyer,Toys & Games,24.99,2.0,0.35,0.55,45.0,100.0,PASS,C,prescreen_v2_batch_098.csv
+B08XDJ7XN5,Mary Meyer,Toys & Games,29.95,2.0,0.0,0.53,55.0,18.3,PASS,LOW,prescreen_v2_batch_098.csv
+B0DZDV2M94,Mary Meyer,Toys & Games,27.79,2.0,0.26,0.32,38.0,12.7,PASS,LOW,prescreen_v2_batch_098.csv
+B0FDSQ7DCR,Mary Meyer,Toys & Games,18.54,2.0,0.02,0.42,26.0,8.7,PASS,LOW,prescreen_v2_batch_098.csv
+B0DYNN73QZ,Mary Meyer,Toys & Games,17.0,2.0,0.32,0.59,7.0,2.3,PASS,LOW,prescreen_v2_batch_098.csv
+B0CQBPLL4N,Mary Meyer,Toys & Games,17.94,3.0,0.35,0.48,5.0,1.7,PASS,LOW,prescreen_v2_batch_098.csv
+B01LWRQ0GK,metabo,Tools & Home Improvement,225.99,2.0,0.11,0.38,28.0,9.3,PASS,LOW,prescreen_v2_batch_101.csv
+B000VE6D9C,metabo,Tools & Home Improvement,39.15,2.0,0.25,0.59,12.0,4.0,PASS,LOW,prescreen_v2_batch_101.csv
+B07HPCLCLD,metabo,Tools & Home Improvement,170.99,2.0,0.23,0.59,7.0,2.3,PASS,LOW,prescreen_v2_batch_101.csv
+B09PF9KCKH,Midland,Electronics,439.99,2.0,0.0,0.57,55.0,100.0,PASS,C,prescreen_v2_batch_101.csv
+B001PTHKLM,Minn Kota,Sports & Outdoors,39.99,2.0,0.3,0.3,46.0,15.3,PASS,LOW,prescreen_v2_batch_102.csv
+B0C8WPLPWB,Minn Kota,Sports & Outdoors,197.98,2.0,0.04,0.49,42.0,14.0,PASS,LOW,prescreen_v2_batch_102.csv
+B003DR12YU,New Archery Products,Sports & Outdoors,27.19,3.0,0.13,0.24,78.0,26.0,PASS,LOW,prescreen_v2_batch_109.csv
+B0CSYLBW1N,Nocs Provisions,Electronics,74.35,2.0,0.0,0.51,63.0,300.0,PASS,A,prescreen_v2_batch_112.csv
+B0CTJC2LZW,Nocs Provisions,Electronics,99.95,2.0,0.0,0.56,67.0,200.0,PASS,B,prescreen_v2_batch_112.csv
+B0CSYDCGWM,Nocs Provisions,Electronics,79.95,2.0,0.0,0.56,59.0,100.0,PASS,C,prescreen_v2_batch_112.csv
+B0CSYZ9LPZ,Nocs Provisions,Electronics,99.95,2.0,0.0,0.46,72.0,100.0,PASS,C,prescreen_v2_batch_112.csv
+B0D52C4QX2,Nocs Provisions,Electronics,281.99,2.0,0.0,0.51,75.0,25.0,PASS,LOW,prescreen_v2_batch_112.csv
+B08F31KZH5,OccuNomix,Tools & Home Improvement,61.44,2.0,0.07,0.36,36.0,12.0,PASS,LOW,prescreen_v2_batch_115.csv
+B01HR8VUGA,Oceanic,Sports & Outdoors,43.98,4.0,0.0,0.6,44.0,50.0,PASS,C,prescreen_v2_batch_115.csv
+B06ZZZT9GV,Oceanic,Sports & Outdoors,64.95,4.0,0.0,0.18,48.0,16.0,PASS,LOW,prescreen_v2_batch_115.csv
+B071XWYQF7,Oceanic,Sports & Outdoors,67.95,3.0,0.0,0.51,45.0,15.0,PASS,LOW,prescreen_v2_batch_115.csv
+B06ZZZTF81,Oceanic,Sports & Outdoors,67.95,5.0,0.0,0.44,44.0,14.7,PASS,LOW,prescreen_v2_batch_115.csv
+B074KRNL3V,Oceanic,Sports & Outdoors,67.95,7.0,0.0,0.34,44.0,14.7,PASS,LOW,prescreen_v2_batch_115.csv
+B071D7FDPV,Oceanic,Sports & Outdoors,67.95,5.0,0.0,0.46,43.0,14.3,PASS,LOW,prescreen_v2_batch_115.csv
+B071RG22W9,Oceanic,Sports & Outdoors,67.95,4.0,0.0,0.47,43.0,14.3,PASS,LOW,prescreen_v2_batch_115.csv
+B074KS7G6S,Oceanic,Sports & Outdoors,67.95,5.0,0.0,0.69,43.0,14.3,PASS,LOW,prescreen_v2_batch_115.csv
+B071DHVVM3,Oceanic,Sports & Outdoors,67.95,4.0,0.0,0.58,42.0,14.0,PASS,LOW,prescreen_v2_batch_115.csv
+B0F39K2CGT,Oceanic,Sports & Outdoors,17.93,6.0,0.0,0.45,42.0,14.0,PASS,LOW,prescreen_v2_batch_115.csv
+B07PFFXGSP,Oceanic,Sports & Outdoors,89.95,4.0,0.0,0.5,41.0,13.7,PASS,LOW,prescreen_v2_batch_115.csv
+B07PFD67V4,Oceanic,Sports & Outdoors,89.95,3.0,0.0,0.6,38.0,12.7,PASS,LOW,prescreen_v2_batch_115.csv
+B001N1D3WM,Oceanic,Sports & Outdoors,81.0,8.0,0.0,0.37,34.0,11.3,PASS,LOW,prescreen_v2_batch_115.csv
+B002R9UB9C,Oceanic,Sports & Outdoors,89.95,9.0,0.0,0.23,34.0,11.3,PASS,LOW,prescreen_v2_batch_115.csv
+B096PVLYRF,Oceanic,Sports & Outdoors,64.95,2.0,0.0,0.39,34.0,11.3,PASS,LOW,prescreen_v2_batch_115.csv
+B000M66ABA,Oceanic,Sports & Outdoors,40.95,4.0,0.0,0.54,33.0,11.0,PASS,LOW,prescreen_v2_batch_115.csv
+B07P7VBFVR,Oceanic,Sports & Outdoors,89.95,3.0,0.0,0.42,33.0,11.0,PASS,LOW,prescreen_v2_batch_115.csv
+B07P7V9HQQ,Oceanic,Sports & Outdoors,89.95,4.0,0.0,0.4,32.0,10.7,PASS,LOW,prescreen_v2_batch_115.csv
+B07P89Z5B7,Oceanic,Sports & Outdoors,89.95,7.0,0.0,0.45,31.0,10.3,PASS,LOW,prescreen_v2_batch_115.csv
+B07P9838H8,Oceanic,Sports & Outdoors,89.95,6.0,0.0,0.23,31.0,10.3,PASS,LOW,prescreen_v2_batch_115.csv
+B07PBGJ191,Oceanic,Sports & Outdoors,89.94,7.0,0.0,0.49,31.0,10.3,PASS,LOW,prescreen_v2_batch_115.csv
+B07P6Q7WBH,Oceanic,Sports & Outdoors,89.95,4.0,0.0,0.39,30.0,10.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PWCQBG,Oceanic,Sports & Outdoors,64.95,3.0,0.0,0.55,30.0,10.0,PASS,LOW,prescreen_v2_batch_115.csv
+B07P72BRJK,Oceanic,Sports & Outdoors,80.0,5.0,0.0,0.45,29.0,9.7,PASS,LOW,prescreen_v2_batch_115.csv
+B07PHMDD5Y,Oceanic,Sports & Outdoors,89.95,3.0,0.0,0.54,29.0,9.7,PASS,LOW,prescreen_v2_batch_115.csv
+B096PW6DT8,Oceanic,Sports & Outdoors,64.95,2.0,0.0,0.37,28.0,9.3,PASS,LOW,prescreen_v2_batch_115.csv
+B096PVJZYW,Oceanic,Sports & Outdoors,64.95,2.0,0.0,0.58,27.0,9.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PYFTPT,Oceanic,Sports & Outdoors,104.95,2.0,0.0,0.55,27.0,9.0,PASS,LOW,prescreen_v2_batch_115.csv
+B0CGW69HDN,Oceanic,Cell Phones & Accessories,49.95,3.0,0.0,0.53,27.0,9.0,PASS,LOW,prescreen_v2_batch_115.csv
+B0CGW69PVY,Oceanic,Cell Phones & Accessories,49.95,3.0,0.0,0.5,25.0,8.3,PASS,LOW,prescreen_v2_batch_115.csv
+B00TC5I7OK,Oceanic,Sports & Outdoors,144.95,4.0,0.0,0.6,24.0,8.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PVGNY8,Oceanic,Sports & Outdoors,64.95,2.0,0.0,0.55,22.0,7.3,PASS,LOW,prescreen_v2_batch_115.csv
+B096PWZ522,Oceanic,Sports & Outdoors,104.95,2.0,0.0,0.58,21.0,7.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PWNZW6,Oceanic,Sports & Outdoors,104.95,2.0,0.0,0.47,18.0,6.0,PASS,LOW,prescreen_v2_batch_115.csv
+B00TC5IFCE,Oceanic,Sports & Outdoors,144.95,3.0,0.0,0.56,17.0,5.7,PASS,LOW,prescreen_v2_batch_115.csv
+B000M64ANA,Oceanic,Sports & Outdoors,89.95,4.0,0.0,0.55,14.0,4.7,PASS,LOW,prescreen_v2_batch_115.csv
+B0763KX21H,Oceanic,Sports & Outdoors,47.95,4.0,0.0,0.59,14.0,4.7,PASS,LOW,prescreen_v2_batch_115.csv
+B096PYCRR7,Oceanic,Sports & Outdoors,104.95,3.0,0.0,0.59,13.0,4.3,PASS,LOW,prescreen_v2_batch_115.csv
+B015L1S7ES,Oceanic,Sports & Outdoors,58.0,3.0,0.0,0.52,12.0,4.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PVMTJ6,Oceanic,Sports & Outdoors,64.95,2.0,0.0,0.55,12.0,4.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096PW1HHK,Oceanic,Sports & Outdoors,64.95,3.0,0.0,0.42,12.0,4.0,PASS,LOW,prescreen_v2_batch_115.csv
+B01I47V9SM,Oceanic,Sports & Outdoors,81.95,3.0,0.0,0.34,11.0,3.7,PASS,LOW,prescreen_v2_batch_115.csv
+B0763K2DMG,Oceanic,Sports & Outdoors,47.95,5.0,0.0,0.5,11.0,3.7,PASS,LOW,prescreen_v2_batch_115.csv
+B0763KGS6Y,Oceanic,Sports & Outdoors,47.95,4.0,0.0,0.52,11.0,3.7,PASS,LOW,prescreen_v2_batch_115.csv
+B0DQF27BRB,Oceanic,Sports & Outdoors,89.95,3.0,0.0,0.44,11.0,3.7,PASS,LOW,prescreen_v2_batch_115.csv
+B096N8BKWQ,Oceanic,Sports & Outdoors,119.95,2.0,0.0,0.52,10.0,3.3,PASS,LOW,prescreen_v2_batch_115.csv
+B011HLR8FA,Oceanic,Sports & Outdoors,57.95,3.0,0.0,0.5,9.0,3.0,PASS,LOW,prescreen_v2_batch_115.csv
+B0763KKJX6,Oceanic,Sports & Outdoors,47.95,3.0,0.0,0.5,8.0,2.7,PASS,LOW,prescreen_v2_batch_115.csv
+B0763KQ1XK,Oceanic,Sports & Outdoors,47.95,5.0,0.0,0.55,8.0,2.7,PASS,LOW,prescreen_v2_batch_115.csv
+B096N5XTFZ,Oceanic,Sports & Outdoors,119.95,3.0,0.0,0.55,8.0,2.7,PASS,LOW,prescreen_v2_batch_115.csv
+B01M7UC8C6,Oceanic,Sports & Outdoors,194.95,3.0,0.0,0.5,7.0,2.3,PASS,LOW,prescreen_v2_batch_115.csv
+B00V5GFX82,Oceanic,Sports & Outdoors,119.95,3.0,0.0,0.54,6.0,2.0,PASS,LOW,prescreen_v2_batch_115.csv
+B01EXM3EUS,Oceanic,Sports & Outdoors,37.95,2.0,0.0,0.43,6.0,2.0,PASS,LOW,prescreen_v2_batch_115.csv
+B096N6HLQG,Oceanic,Sports & Outdoors,119.95,2.0,0.0,0.53,6.0,2.0,PASS,LOW,prescreen_v2_batch_115.csv
+B0BG9KY16Y,Oceanic,Sports & Outdoors,574.95,4.0,0.0,0.46,6.0,2.0,PASS,LOW,prescreen_v2_batch_115.csv
+B01M320HM3,Oceanic,Sports & Outdoors,194.95,5.0,0.0,0.49,5.0,1.7,PASS,LOW,prescreen_v2_batch_115.csv
+B096N52MQX,Oceanic,Sports & Outdoors,119.95,2.0,0.0,0.49,5.0,1.7,PASS,LOW,prescreen_v2_batch_115.csv
+B01LQUOEP4,Officemate,Office Products,24.99,3.0,0.28,0.5,69.0,200.0,PASS,B,prescreen_v2_batch_115.csv
+B0BGMJP5LX,Officemate,Office Products,15.52,3.0,0.02,0.37,47.0,100.0,PASS,C,prescreen_v2_batch_115.csv
+B0CMYRMQB3,Officemate,Office Products,15.99,4.0,0.0,0.55,39.0,50.0,PASS,C,prescreen_v2_batch_115.csv
+B0081XII9S,Outward Hound,Pet Supplies,38.0,3.0,0.12,0.38,8.0,2.7,PASS,LOW,prescreen_v2_batch_118.csv
+B00NAG4WX2,Peltor,Tools & Home Improvement,80.28,2.0,0.26,0.52,51.0,300.0,PASS,A,prescreen_v2_batch_121.csv
+B0DJFR89MH,Pet Simulator,Toys & Games,36.29,2.0,0.0,0.6,25.0,8.3,PASS,LOW,prescreen_v2_batch_122.csv
+B08P3V4WN3,PIGGY,Toys & Games,16.43,7.0,0.0,0.17,41.0,13.7,PASS,LOW,prescreen_v2_batch_124.csv
+B094NXX4VJ,PIGGY,Toys & Games,15.99,2.0,0.0,0.14,41.0,13.7,PASS,LOW,prescreen_v2_batch_124.csv
+B09NCFNKSZ,PIGGY,Toys & Games,16.0,4.0,0.0,0.4,24.0,8.0,PASS,LOW,prescreen_v2_batch_124.csv
+B08P4YVJD4,PIGGY,Toys & Games,30.92,8.0,0.0,0.28,19.0,6.3,PASS,LOW,prescreen_v2_batch_124.csv
+B08CD46K17,Proud Grill Company,"Patio, Lawn & Garden",19.77,3.0,0.0,0.41,23.0,7.7,PASS,LOW,prescreen_v2_batch_129.csv
+B00TJSYQW2,Pyramex,Tools & Home Improvement,25.21,3.0,0.0,0.32,60.0,300.0,PASS,A,prescreen_v2_batch_130.csv
+B078B9QD55,Pyramex,Tools & Home Improvement,28.67,2.0,0.34,0.34,60.0,300.0,PASS,A,prescreen_v2_batch_130.csv
+B06XKPSZQN,Pyramex,Tools & Home Improvement,15.83,2.0,0.0,0.41,46.0,200.0,PASS,B,prescreen_v2_batch_130.csv
+B07FQTCYTW,Pyramex,Tools & Home Improvement,110.98,2.0,0.0,0.4,58.0,200.0,PASS,B,prescreen_v2_batch_130.csv
+B06XKDKY41,Pyramex,Tools & Home Improvement,15.99,2.0,0.0,0.55,73.0,100.0,PASS,C,prescreen_v2_batch_130.csv
+B078YDL2Z6,Pyramex,Tools & Home Improvement,23.82,2.0,0.0,0.45,49.0,100.0,PASS,C,prescreen_v2_batch_130.csv
+B078YDPNDV,Pyramex,Tools & Home Improvement,31.79,3.0,0.0,0.59,44.0,50.0,PASS,C,prescreen_v2_batch_130.csv
+B005E06C6M,Pyramex,Tools & Home Improvement,21.99,2.0,0.33,0.36,63.0,21.0,PASS,LOW,prescreen_v2_batch_130.csv
+B00GMBB0T6,Pyramex,Tools & Home Improvement,19.81,2.0,0.16,0.53,62.0,20.7,PASS,LOW,prescreen_v2_batch_130.csv
+B00MGMWRO2,Pyramex,Tools & Home Improvement,21.05,2.0,0.0,0.34,54.0,18.0,PASS,LOW,prescreen_v2_batch_130.csv
+B072W8JQMC,Pyramex,Tools & Home Improvement,25.45,2.0,0.15,0.47,50.0,16.7,PASS,LOW,prescreen_v2_batch_130.csv
+B003UU9FKI,Pyramex,Tools & Home Improvement,16.65,2.0,0.04,0.5,44.0,14.7,PASS,LOW,prescreen_v2_batch_130.csv
+B07FQWXQML,Pyramex,Tools & Home Improvement,16.21,5.0,0.0,0.52,10.0,3.3,PASS,LOW,prescreen_v2_batch_130.csv
+B07FQTP38B,Pyramex,Tools & Home Improvement,16.0,3.0,0.0,0.47,8.0,2.7,PASS,LOW,prescreen_v2_batch_130.csv
+B00SLZJKNY,Pyramex Safety,Tools & Home Improvement,43.99,2.0,0.28,0.52,51.0,17.0,PASS,LOW,prescreen_v2_batch_130.csv
+B0006VPH60,Quality Park,Office Products,15.99,3.0,0.03,0.56,37.0,50.0,PASS,C,prescreen_v2_batch_131.csv
+B0CN7CSJ57,Quality Park,Office Products,27.89,2.0,0.0,0.42,33.0,11.0,PASS,LOW,prescreen_v2_batch_131.csv
+B002IARFRG,Quality Park,Office Products,26.96,2.0,0.0,0.52,25.0,8.3,PASS,LOW,prescreen_v2_batch_131.csv
+B000V4OLP0,Quartet,Office Products,21.0,3.0,0.3,0.46,38.0,12.7,PASS,LOW,prescreen_v2_batch_131.csv
+B001HBUSPS,Quicksilver,Automotive,30.81,3.0,0.19,0.4,46.0,50.0,PASS,C,prescreen_v2_batch_131.csv
+B00MIPCTBS,Quicksilver,Automotive,37.0,2.0,0.0,0.15,93.0,50.0,PASS,C,prescreen_v2_batch_131.csv
+B00N6DCVM8,Quicksilver,Automotive,16.88,2.0,0.0,0.45,44.0,14.7,PASS,LOW,prescreen_v2_batch_131.csv
+B007D2GE94,Quicksilver,Sports & Outdoors,130.0,3.0,0.33,0.42,39.0,13.0,PASS,LOW,prescreen_v2_batch_131.csv
+B00JFXOBOE,Quicksilver,Automotive,15.99,2.0,0.0,0.5,12.0,4.0,PASS,LOW,prescreen_v2_batch_131.csv
+B004QJN3VO,Quicksilver,Automotive,113.01,2.0,0.28,0.5,10.0,3.3,PASS,LOW,prescreen_v2_batch_131.csv
+B07GPLX49Z,Radians,Tools & Home Improvement,86.46,2.0,0.0,0.44,35.0,50.0,PASS,C,prescreen_v2_batch_132.csv
+B01LYFC3ZT,RAINBOW,Home & Kitchen,24.79,2.0,0.0,0.38,19.0,6.3,PASS,LOW,prescreen_v2_batch_132.csv
+B0F22CGNXW,Rainbow Friends,Toys & Games,17.99,7.0,0.0,0.16,44.0,50.0,PASS,C,prescreen_v2_batch_132.csv
+B0DFWZBHD6,Rainbow Friends,Toys & Games,19.99,15.0,0.0,0.19,68.0,22.7,PASS,LOW,prescreen_v2_batch_132.csv
+B0CK8LGMTH,Rainbow Friends,Toys & Games,46.64,2.0,0.0,0.17,59.0,19.7,PASS,LOW,prescreen_v2_batch_132.csv
+B0CLLYD4BM,Rainbow Friends,Toys & Games,36.0,4.0,0.0,0.3,53.0,17.7,PASS,LOW,prescreen_v2_batch_132.csv
+B0CWLJXSKV,Rainbow Friends,Toys & Games,17.95,5.0,0.0,0.62,44.0,14.7,PASS,LOW,prescreen_v2_batch_132.csv
+B0G7MPDDWW,Rainbow Friends,Toys & Games,33.5,4.0,0.0,0.41,43.0,14.3,PASS,LOW,prescreen_v2_batch_132.csv
+B0CWLK72JM,Rainbow Friends,Toys & Games,19.99,5.0,0.0,0.4,42.0,14.0,PASS,LOW,prescreen_v2_batch_132.csv
+B0CZS898WL,Rainbow Friends,Toys & Games,15.0,22.0,0.0,0.12,40.0,13.3,PASS,LOW,prescreen_v2_batch_132.csv
+B0CZS6NXHS,Rainbow Friends,Toys & Games,19.99,10.0,0.0,0.11,39.0,13.0,PASS,LOW,prescreen_v2_batch_132.csv
+B0F388ZTD7,Rainbow Friends,Toys & Games,22.0,11.0,0.0,0.17,34.0,11.3,PASS,LOW,prescreen_v2_batch_132.csv
+B0CZS48H61,Rainbow Friends,Toys & Games,15.99,17.0,0.0,0.25,27.0,9.0,PASS,LOW,prescreen_v2_batch_132.csv
+B0DV9WXLDV,Rainbow Friends,Toys & Games,17.99,5.0,0.0,0.26,27.0,9.0,PASS,LOW,prescreen_v2_batch_132.csv
+B017V5PU4W,Razor,Automotive,17.89,2.0,0.0,0.56,35.0,100.0,PASS,C,prescreen_v2_batch_132.csv
+B073XPJ8BN,Razor,Sports & Outdoors,47.0,2.0,0.07,0.55,44.0,14.7,PASS,LOW,prescreen_v2_batch_132.csv
+B08SKYJQZW,Red Toolbox,Toys & Games,36.96,2.0,0.24,0.43,46.0,15.3,PASS,LOW,prescreen_v2_batch_133.csv
+B07NZ2HFR4,Redi-Tag,Office Products,21.99,2.0,0.0,0.54,49.0,16.3,PASS,LOW,prescreen_v2_batch_133.csv
+B07P2BM78R,Redi-Tag,Office Products,29.28,3.0,0.0,0.6,43.0,14.3,PASS,LOW,prescreen_v2_batch_133.csv
+B01L0HODTU,Redi-Tag,Office Products,17.46,3.0,0.0,0.49,42.0,14.0,PASS,LOW,prescreen_v2_batch_133.csv
+B01N8S6QWS,Regal Games,Toys & Games,31.99,2.0,0.0,0.45,53.0,17.7,PASS,LOW,prescreen_v2_batch_133.csv
+B0GFX33H2G,SAVANA,Toys & Games,79.59,2.0,0.0,0.56,30.0,10.0,PASS,LOW,prescreen_v2_batch_140.csv
+B01785QCRY,Schrade,Sports & Outdoors,26.99,5.0,0.3,0.3,38.0,100.0,PASS,C,prescreen_v2_batch_140.csv
+B0BRTCZ78M,Schrade,Sports & Outdoors,21.07,3.0,0.24,0.45,52.0,17.3,PASS,LOW,prescreen_v2_batch_140.csv
+B00I5T5D9Q,Schrade,Sports & Outdoors,36.99,2.0,0.32,0.46,36.0,12.0,PASS,LOW,prescreen_v2_batch_140.csv
+B0BRTCXHBP,Schrade,Sports & Outdoors,33.64,2.0,0.06,0.59,23.0,7.7,PASS,LOW,prescreen_v2_batch_140.csv
+B00I5T5EAE,Schrade,Sports & Outdoors,18.7,2.0,0.31,0.42,19.0,6.3,PASS,LOW,prescreen_v2_batch_140.csv
+B0BRTC5YFD,Schrade,Sports & Outdoors,49.3,2.0,0.26,0.53,18.0,6.0,PASS,LOW,prescreen_v2_batch_140.csv
+B00BO2EXXI,Schrade,Sports & Outdoors,22.48,2.0,0.0,0.53,14.0,4.7,PASS,LOW,prescreen_v2_batch_140.csv
+B00287U8H8,Scotty,Sports & Outdoors,42.89,3.0,0.35,0.39,38.0,12.7,PASS,LOW,prescreen_v2_batch_140.csv
+B004O0FT6M,Scotty,Sports & Outdoors,16.83,2.0,0.15,0.46,28.0,9.3,PASS,LOW,prescreen_v2_batch_140.csv
+B0CSGPM2GV,Scotty,Sports & Outdoors,31.46,2.0,0.26,0.49,8.0,2.7,PASS,LOW,prescreen_v2_batch_140.csv
+B00BTSGUMY,Sena,Electronics,19.99,2.0,0.0,0.3,21.0,7.0,PASS,LOW,prescreen_v2_batch_142.csv
+B09CXPN9ND,Shock Doctor,Sports & Outdoors,22.99,3.0,0.29,0.29,162.0,100.0,PASS,C,prescreen_v2_batch_144.csv
+B09CXP6GSF,Shock Doctor,Sports & Outdoors,18.95,2.0,0.15,0.44,185.0,50.0,PASS,C,prescreen_v2_batch_144.csv
+B09XFHHZGV,Shock Doctor,Sports & Outdoors,17.84,4.0,0.01,0.47,47.0,15.7,PASS,LOW,prescreen_v2_batch_144.csv
+B0C28WFCJ7,Shock Doctor,Sports & Outdoors,22.68,3.0,0.14,0.29,47.0,15.7,PASS,LOW,prescreen_v2_batch_144.csv
+B000HJD6SC,Shop-Vac,Home & Kitchen,21.09,2.0,0.05,0.29,45.0,15.0,PASS,LOW,prescreen_v2_batch_144.csv
+B000F5M71K,Shop-Vac,Home & Kitchen,21.47,3.0,0.0,0.35,40.0,13.3,PASS,LOW,prescreen_v2_batch_144.csv
+B015WU52MI,SHOWA,Tools & Home Improvement,20.44,3.0,0.24,0.34,58.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B0DLF2XZH2,SHOWA,Tools & Home Improvement,48.69,3.0,0.23,0.45,91.0,30.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0012NVRS8,SHOWA,Tools & Home Improvement,35.5,2.0,0.0,0.21,59.0,19.7,PASS,LOW,prescreen_v2_batch_145.csv
+B015WU50K2,SHOWA,Tools & Home Improvement,19.5,3.0,0.0,0.51,57.0,19.0,PASS,LOW,prescreen_v2_batch_145.csv
+B014V4X2LE,SHOWA,Tools & Home Improvement,23.55,2.0,0.02,0.56,40.0,13.3,PASS,LOW,prescreen_v2_batch_145.csv
+B001444ZYI,SHURFLO,"Patio, Lawn & Garden",61.3,4.0,0.23,0.43,47.0,300.0,PASS,A,prescreen_v2_batch_145.csv
+B000T6K41A,SHURFLO,Tools & Home Improvement,59.33,2.0,0.23,0.44,37.0,100.0,PASS,C,prescreen_v2_batch_145.csv
+B001446QT0,SHURFLO,Automotive,44.18,3.0,0.0,0.52,49.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B00K8ECCN6,SHURFLO,Automotive,32.99,2.0,0.05,0.55,48.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B00AJVJRYK,SHURFLO,Tools & Home Improvement,334.63,2.0,0.18,0.43,44.0,14.7,PASS,LOW,prescreen_v2_batch_145.csv
+B081ZP47Q8,Sig Sauer,Sports & Outdoors,49.99,5.0,0.0,0.5,77.0,200.0,PASS,B,prescreen_v2_batch_145.csv
+B083GCW1YC,Sig Sauer,Sports & Outdoors,20.75,5.0,0.02,0.48,38.0,100.0,PASS,C,prescreen_v2_batch_145.csv
+B08TRT1KVT,Sig Sauer,Sports & Outdoors,103.33,4.0,0.0,0.57,63.0,100.0,PASS,C,prescreen_v2_batch_145.csv
+B08TRTHFVV,Sig Sauer,Sports & Outdoors,92.83,3.0,0.0,0.59,71.0,100.0,PASS,C,prescreen_v2_batch_145.csv
+B07M5P9W9V,Sig Sauer,Sports & Outdoors,26.04,7.0,0.0,0.53,52.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B091B3TZLC,Sig Sauer,Sports & Outdoors,194.99,5.0,0.0,0.42,44.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B09H7TSX4K,Sig Sauer,Sports & Outdoors,99.99,4.0,0.0,0.21,55.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B09K9PCZ68,Sig Sauer,Sports & Outdoors,194.0,4.0,0.0,0.49,47.0,50.0,PASS,C,prescreen_v2_batch_145.csv
+B0DFQC5TTB,Sig Sauer,Electronics,1699.99,4.0,0.0,0.18,81.0,27.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0CRZ9W9ZB,Sig Sauer,Electronics,249.99,7.0,0.0,0.34,64.0,21.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0DFQFDHTV,Sig Sauer,Electronics,349.99,5.0,0.0,0.44,64.0,21.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0B8PBDVQ8,Sig Sauer,Electronics,131.99,2.0,0.0,0.35,61.0,20.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0742NPB8D,Sig Sauer,Sports & Outdoors,399.99,7.0,0.04,0.38,53.0,17.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0B6LXD5MN,Sig Sauer,Sports & Outdoors,20.34,4.0,0.0,0.35,53.0,17.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0BWNPLBP9,Sig Sauer,Sports & Outdoors,147.99,5.0,0.0,0.57,53.0,17.7,PASS,LOW,prescreen_v2_batch_145.csv
+B07DNT7464,Sig Sauer,Sports & Outdoors,21.82,4.0,0.0,0.32,51.0,17.0,PASS,LOW,prescreen_v2_batch_145.csv
+B09GFRN5VC,Sig Sauer,Sports & Outdoors,269.0,5.0,0.0,0.49,49.0,16.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0B8PB6MVB,Sig Sauer,Sports & Outdoors,37.57,3.0,0.0,0.57,48.0,16.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0CF9QMQSV,Sig Sauer,Sports & Outdoors,279.99,4.0,0.0,0.5,48.0,16.0,PASS,LOW,prescreen_v2_batch_145.csv
+B07VGP369Q,Sig Sauer,Sports & Outdoors,30.52,4.0,0.0,0.41,47.0,15.7,PASS,LOW,prescreen_v2_batch_145.csv
+B09M21T1FL,Sig Sauer,Sports & Outdoors,69.99,4.0,0.0,0.48,46.0,15.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0B8PGHQTV,Sig Sauer,Sports & Outdoors,31.69,4.0,0.0,0.31,44.0,14.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0BH962H3N,Sig Sauer,Sports & Outdoors,34.86,6.0,0.0,0.49,43.0,14.3,PASS,LOW,prescreen_v2_batch_145.csv
+B074MDWHFF,Sig Sauer,Sports & Outdoors,27.79,2.0,0.13,0.55,42.0,14.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0DCBN1HD6,Sig Sauer,Sports & Outdoors,49.99,5.0,0.0,0.42,41.0,13.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0CTHSDMHZ,Sig Sauer,Sports & Outdoors,74.99,5.0,0.0,0.41,40.0,13.3,PASS,LOW,prescreen_v2_batch_145.csv
+B00UZ8AMKU,Sig Sauer,Sports & Outdoors,99.99,2.0,0.0,0.25,39.0,13.0,PASS,LOW,prescreen_v2_batch_145.csv
+B00UZ8ASJK,Sig Sauer,Sports & Outdoors,99.99,2.0,0.0,0.53,38.0,12.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0CTHW19C3,Sig Sauer,Sports & Outdoors,79.99,5.0,0.0,0.46,38.0,12.7,PASS,LOW,prescreen_v2_batch_145.csv
+B07VCGT9ZT,Sig Sauer,Sports & Outdoors,35.58,2.0,0.0,0.41,37.0,12.3,PASS,LOW,prescreen_v2_batch_145.csv
+B0CM4B63GX,Sig Sauer,Sports & Outdoors,159.99,4.0,0.0,0.49,36.0,12.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0D8BDZK8W,Sig Sauer,Sports & Outdoors,69.98,2.0,0.0,0.52,36.0,12.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0FXZ21FFV,Sig Sauer,Sports & Outdoors,117.52,5.0,0.0,0.4,36.0,12.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0B5DDWRXP,Sig Sauer,Sports & Outdoors,30.0,2.0,0.0,0.5,30.0,10.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0C7D4L47R,Sig Sauer,Sports & Outdoors,162.87,2.0,0.0,0.38,27.0,9.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0DF7VNQ6J,Sig Sauer,Electronics,899.99,4.0,0.0,0.56,26.0,8.7,PASS,LOW,prescreen_v2_batch_145.csv
+B09W44G6KH,Sig Sauer,Sports & Outdoors,69.99,3.0,0.0,0.53,22.0,7.3,PASS,LOW,prescreen_v2_batch_145.csv
+B07VJPSNW4,Sig Sauer,Sports & Outdoors,119.0,4.0,0.05,0.36,18.0,6.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0CY2T5Q7G,Sig Sauer,Sports & Outdoors,24.97,4.0,0.0,0.36,18.0,6.0,PASS,LOW,prescreen_v2_batch_145.csv
+B08758VW9F,Sig Sauer,Sports & Outdoors,89.99,3.0,0.0,0.46,17.0,5.7,PASS,LOW,prescreen_v2_batch_145.csv
+B076QCSKNF,Sig Sauer,Sports & Outdoors,65.72,4.0,0.0,0.56,12.0,4.0,PASS,LOW,prescreen_v2_batch_145.csv
+B0CRHT4JZF,Sig Sauer,Sports & Outdoors,34.95,2.0,0.0,0.51,11.0,3.7,PASS,LOW,prescreen_v2_batch_145.csv
+B0D9C18WT1,Sig Sauer,Electronics,59.98,2.0,0.0,0.49,6.0,2.0,PASS,LOW,prescreen_v2_batch_145.csv
+B07CMM64GS,Sig Sauer,Sports & Outdoors,99.99,5.0,0.0,0.67,5.0,1.7,PASS,LOW,prescreen_v2_batch_145.csv
+B07C8SLDDY,Sightmark,Electronics,122.37,4.0,0.07,0.49,48.0,16.0,PASS,LOW,prescreen_v2_batch_145.csv
+B09KX3V3PZ,Teacher Created Resources,Office Products,16.06,3.0,0.0,0.57,56.0,18.7,PASS,LOW,prescreen_v2_batch_159.csv
+B078NJ1XQQ,Teacher Created Resources,"Arts, Crafts & Sewing",16.62,2.0,0.31,0.57,30.0,10.0,PASS,LOW,prescreen_v2_batch_159.csv
+B082G5SBYN,Teacher Created Resources,Office Products,18.05,2.0,0.29,0.49,9.0,3.0,PASS,LOW,prescreen_v2_batch_159.csv
+B001U3Q0VO,Tempress,Sports & Outdoors,32.18,2.0,0.0,0.4,37.0,12.3,PASS,LOW,prescreen_v2_batch_159.csv
+B01LYGCFKV,Ticonderoga,Office Products,31.9,3.0,0.0,0.45,47.0,50.0,PASS,C,prescreen_v2_batch_163.csv
+B0053PXKSG,Ticonderoga,Office Products,23.75,4.0,0.0,0.34,63.0,21.0,PASS,LOW,prescreen_v2_batch_163.csv
+B07C2CNBH7,Ticonderoga,Office Products,45.45,3.0,0.0,0.47,48.0,16.0,PASS,LOW,prescreen_v2_batch_163.csv
+B01LZFGMDU,Ticonderoga,"Arts, Crafts & Sewing",17.09,4.0,0.0,0.59,43.0,14.3,PASS,LOW,prescreen_v2_batch_163.csv
+B07YQ9YJNM,Ticonderoga,Office Products,17.87,2.0,0.0,0.59,34.0,11.3,PASS,LOW,prescreen_v2_batch_163.csv
+B001CUCAL4,Ticonderoga,Office Products,28.94,3.0,0.17,0.36,29.0,9.7,PASS,LOW,prescreen_v2_batch_163.csv
+B07RC6PZ11,Tolco,"Patio, Lawn & Garden",24.98,2.0,0.0,0.49,37.0,50.0,PASS,C,prescreen_v2_batch_163.csv
+B06XW56CT9,Tolco,"Patio, Lawn & Garden",28.0,3.0,0.0,0.37,43.0,14.3,PASS,LOW,prescreen_v2_batch_163.csv
+B072QYKVH1,Tolco,Office Products,65.22,3.0,0.01,0.3,36.0,12.0,PASS,LOW,prescreen_v2_batch_163.csv
+B007PD6Z04,Tolco,Office Products,19.48,2.0,0.0,0.43,18.0,6.0,PASS,LOW,prescreen_v2_batch_163.csv
+B00JY8394S,TRP,Sports & Outdoors,29.99,2.0,0.0,0.51,44.0,100.0,PASS,C,prescreen_v2_batch_166.csv
+B01MYEL0BB,TRP,Sports & Outdoors,143.99,2.0,0.0,0.4,9.0,3.0,PASS,LOW,prescreen_v2_batch_166.csv
+B00GDP1LAO,Tru-Ray,"Arts, Crafts & Sewing",17.12,4.0,0.17,0.36,57.0,50.0,PASS,C,prescreen_v2_batch_166.csv
+B003Q4COIS,TRUGLO,Sports & Outdoors,32.69,2.0,0.34,0.5,128.0,42.7,PASS,LOW,prescreen_v2_batch_166.csv
+B078PM2LGP,TRUGLO,Sports & Outdoors,49.99,2.0,0.17,0.5,79.0,26.3,PASS,LOW,prescreen_v2_batch_166.csv
+B0000AVVUC,TRUGLO,Sports & Outdoors,53.39,2.0,0.28,0.36,63.0,21.0,PASS,LOW,prescreen_v2_batch_166.csv
+B004Z5C5O0,TRUGLO,Sports & Outdoors,18.99,2.0,0.03,0.51,58.0,19.3,PASS,LOW,prescreen_v2_batch_166.csv
+B000A6LTNG,TRUGLO,Sports & Outdoors,21.85,4.0,0.26,0.37,57.0,19.0,PASS,LOW,prescreen_v2_batch_166.csv
+B000KORPQS,Truglo,Sports & Outdoors,20.05,2.0,0.17,0.32,51.0,17.0,PASS,LOW,prescreen_v2_batch_166.csv
+B000O8S0D2,TRUGLO,Sports & Outdoors,20.49,3.0,0.17,0.37,43.0,14.3,PASS,LOW,prescreen_v2_batch_166.csv
+B000DZKC64,TRUGLO,Sports & Outdoors,21.4,3.0,0.02,0.37,40.0,13.3,PASS,LOW,prescreen_v2_batch_166.csv
+B001F0IM18,TRUGLO,Sports & Outdoors,21.99,2.0,0.21,0.39,37.0,12.3,PASS,LOW,prescreen_v2_batch_166.csv
+B085PLRRHY,TRUGLO,Sports & Outdoors,41.99,3.0,0.07,0.44,36.0,12.0,PASS,LOW,prescreen_v2_batch_166.csv
+B0009TTQRA,TRUGLO,Sports & Outdoors,20.99,2.0,0.16,0.42,29.0,9.7,PASS,LOW,prescreen_v2_batch_166.csv
+B001G6CB8Q,TRUGLO,Sports & Outdoors,19.99,2.0,0.24,0.49,26.0,8.7,PASS,LOW,prescreen_v2_batch_166.csv
+B07L74SYFH,TRUGLO,Sports & Outdoors,30.61,3.0,0.35,0.55,18.0,6.0,PASS,LOW,prescreen_v2_batch_166.csv
+B07L9KWFTP,TRUGLO,Sports & Outdoors,49.99,2.0,0.21,0.52,18.0,6.0,PASS,LOW,prescreen_v2_batch_166.csv
+B07ZZK5CR1,Unique,Home & Kitchen,19.99,3.0,0.0,0.58,35.0,100.0,PASS,C,prescreen_v2_batch_169.csv
+B082BGB8BS,Unique,Home & Kitchen,16.67,3.0,0.0,0.45,40.0,100.0,PASS,C,prescreen_v2_batch_169.csv
+B085283NTD,Unique,Home & Kitchen,15.95,5.0,0.0,0.51,29.0,100.0,PASS,C,prescreen_v2_batch_169.csv
+B07RZ94HK4,Unique,Home & Kitchen,17.89,4.0,0.0,0.41,40.0,13.3,PASS,LOW,prescreen_v2_batch_169.csv
+B08P9ZZLMH,Unique,Toys & Games,15.97,2.0,0.0,0.33,34.0,11.3,PASS,LOW,prescreen_v2_batch_169.csv
+B07Q31HGPB,Unique,Home & Kitchen,22.99,2.0,0.0,0.51,32.0,10.7,PASS,LOW,prescreen_v2_batch_169.csv
+B00TIUBU4I,Village Candle,Home & Kitchen,17.12,4.0,0.0,0.59,10.0,3.3,PASS,LOW,prescreen_v2_batch_172.csv
+B007UU8FXM,West Chester,Tools & Home Improvement,28.53,7.0,0.0,0.53,41.0,13.7,PASS,LOW,prescreen_v2_batch_078.csv
+B0CFSG7KSJ,WEST PAW,Toys & Games,24.99,2.0,0.0,0.14,44.0,14.7,PASS,LOW,prescreen_v2_batch_175.csv
+B00BIB9WPE,Westclox,Home & Kitchen,24.99,2.0,0.0,0.53,41.0,13.7,PASS,LOW,prescreen_v2_batch_175.csv
+B0CCZFBYN5,WS Game Company,Toys & Games,46.95,2.0,0.0,0.4,6.0,2.0,PASS,LOW,prescreen_v2_batch_178.csv
+B0DBQ2QM7Z,YakAttack,Sports & Outdoors,76.95,4.0,0.0,0.47,48.0,100.0,PASS,C,prescreen_v2_batch_179.csv
+B003U0583G,YakAttack,Sports & Outdoors,94.16,2.0,0.0,0.22,50.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B014HTBD1Y,YakAttack,Sports & Outdoors,23.99,2.0,0.0,0.29,39.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B09GQPKSRN,YakAttack,Electronics,100.99,5.0,0.0,0.36,55.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B09TMFGNFL,YakAttack,Sports & Outdoors,124.95,4.0,0.0,0.24,44.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B09TMGSWCH,YakAttack,Sports & Outdoors,174.95,4.0,0.0,0.37,46.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B09XZ99KVZ,YakAttack,Sports & Outdoors,25.95,2.0,0.0,0.45,38.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B0D78SQPZR,YakAttack,Sports & Outdoors,124.95,2.0,0.0,0.52,43.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B0DD3GTQPX,YakAttack,Sports & Outdoors,74.99,2.0,0.0,0.31,38.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B0DWQ364KD,YakAttack,Sports & Outdoors,26.99,2.0,0.0,0.46,41.0,50.0,PASS,C,prescreen_v2_batch_179.csv
+B09GPYGZKL,YakAttack,Sports & Outdoors,16.95,2.0,0.0,0.45,48.0,16.0,PASS,LOW,prescreen_v2_batch_179.csv
+B01N7D6I6S,YakAttack,Sports & Outdoors,254.95,3.0,0.0,0.36,43.0,14.3,PASS,LOW,prescreen_v2_batch_179.csv
+B09TMNFFF5,YakAttack,Sports & Outdoors,149.95,3.0,0.0,0.18,43.0,14.3,PASS,LOW,prescreen_v2_batch_179.csv
+B0CM5JL3TZ,YakAttack,Sports & Outdoors,219.88,2.0,0.0,0.43,40.0,13.3,PASS,LOW,prescreen_v2_batch_179.csv
+B0CYTK2W61,YakAttack,Sports & Outdoors,56.95,2.0,0.0,0.51,39.0,13.0,PASS,LOW,prescreen_v2_batch_179.csv
+B07WPFK1PQ,YakAttack,Sports & Outdoors,25.95,2.0,0.0,0.6,33.0,11.0,PASS,LOW,prescreen_v2_batch_179.csv
+B0BGVCPVL8,YakAttack,Sports & Outdoors,23.99,2.0,0.0,0.4,32.0,10.7,PASS,LOW,prescreen_v2_batch_179.csv
+B00OKV0LG8,YakAttack,Sports & Outdoors,19.99,2.0,0.0,0.55,30.0,10.0,PASS,LOW,prescreen_v2_batch_179.csv
+B0D5K5RCFZ,YakAttack,Sports & Outdoors,61.95,2.0,0.0,0.28,30.0,10.0,PASS,LOW,prescreen_v2_batch_179.csv
+B01LW3OAOA,YakAttack,Sports & Outdoors,46.95,2.0,0.0,0.44,16.0,5.3,PASS,LOW,prescreen_v2_batch_179.csv
+B0D9CB48Q4,ZEISS,Electronics,999.99,5.0,0.0,0.34,91.0,30.3,PASS,LOW,prescreen_v2_batch_181.csv
+B0D9C9WXFL,ZEISS,Electronics,999.99,2.0,0.0,0.43,87.0,29.0,PASS,LOW,prescreen_v2_batch_181.csv
+B06WW6JGP5,ZEISS,Electronics,429.0,3.0,0.13,0.37,83.0,27.7,PASS,LOW,prescreen_v2_batch_181.csv
+B01N24I2GX,ZEISS,Electronics,499.99,4.0,0.0,0.3,81.0,27.0,PASS,LOW,prescreen_v2_batch_181.csv
+B08DJ65XYZ,ZEISS,Electronics,399.99,2.0,0.15,0.35,78.0,26.0,PASS,LOW,prescreen_v2_batch_181.csv
+B0B6ZZ8T44,ZEISS,Electronics,1699.99,4.0,0.0,0.45,74.0,24.7,PASS,LOW,prescreen_v2_batch_181.csv
+B0BLHWCDL1,ZEISS,Electronics,1499.99,4.0,0.0,0.46,69.0,23.0,PASS,LOW,prescreen_v2_batch_181.csv
+B071FWWKTV,ZEISS,Electronics,924.99,2.0,0.0,0.37,63.0,21.0,PASS,LOW,prescreen_v2_batch_181.csv
+B08DJ6RLHG,ZEISS,Electronics,2499.99,3.0,0.0,0.22,63.0,21.0,PASS,LOW,prescreen_v2_batch_181.csv
+B0B711H342,ZEISS,Electronics,1699.99,2.0,0.0,0.24,63.0,21.0,PASS,LOW,prescreen_v2_batch_181.csv
+B0DZF4K28L,ZEISS,Electronics,1999.99,2.0,0.0,0.4,63.0,21.0,PASS,LOW,prescreen_v2_batch_181.csv
+B0BLHSFBTT,ZEISS,Electronics,1499.99,5.0,0.0,0.47,61.0,20.3,PASS,LOW,prescreen_v2_batch_181.csv
+B072JQ6C1Q,ZEISS,Electronics,924.99,4.0,0.0,0.52,60.0,20.0,PASS,LOW,prescreen_v2_batch_181.csv
+B00BD52432,ZEISS,Electronics,499.99,4.0,0.0,0.28,59.0,19.7,PASS,LOW,prescreen_v2_batch_181.csv
+B01M22XVR2,ZEISS,Electronics,2999.99,2.0,0.0,0.46,55.0,18.3,PASS,LOW,prescreen_v2_batch_181.csv
+B01N9MQ7U5,ZEISS,Electronics,2999.99,3.0,0.0,0.5,48.0,16.0,PASS,LOW,prescreen_v2_batch_181.csv
+B06X9ZYPN9,ZEISS,Electronics,499.99,4.0,0.27,0.52,38.0,12.7,PASS,LOW,prescreen_v2_batch_181.csv
+B01MR86J8Q,ZEISS,Electronics,499.99,3.0,0.0,0.3,36.0,12.0,PASS,LOW,prescreen_v2_batch_181.csv
+B00009XVB4,ZEISS,Electronics,379.99,2.0,0.06,0.45,25.0,8.3,PASS,LOW,prescreen_v2_batch_181.csv
+B07YBLQG8L,ZEISS,Sports & Outdoors,799.99,4.0,0.0,0.4,12.0,4.0,PASS,LOW,prescreen_v2_batch_181.csv

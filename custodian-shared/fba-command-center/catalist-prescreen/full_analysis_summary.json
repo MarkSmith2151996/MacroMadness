@@ -1,0 +1,1603 @@
+{
+  "task_id": "EE-154",
+  "generated_at": "2026-06-11T03:35:21Z",
+  "multi_brand_handling": "Option A - direct multi-brand batch analysis",
+  "compatibility_check": {
+    "sample_csv": "prescreen_v2_batch_001.csv",
+    "sample_rows": 497,
+    "sample_columns": 177,
+    "sample_has_brand_column": true,
+    "sample_unique_brands": 8,
+    "sample_analyzer_pass_count": 5,
+    "sample_analyzer_fail_count": 492,
+    "result": "Analyzer accepts multi-brand CSVs and returns per-product rows with correct brand values; no per-brand splitting required."
+  },
+  "params_used": {
+    "min_price": 15.0,
+    "min_fba_sellers": 2,
+    "max_fba_sellers": 15,
+    "filter_gated": true,
+    "max_amazon_pct": 0.35,
+    "max_top_seller_pct_small_field": 0.6,
+    "max_top_seller_pct": 0.7,
+    "velocity_a_threshold": 300,
+    "velocity_b_threshold": 120,
+    "velocity_c_threshold": 50
+  },
+  "input_glob": "/home/dev/keepa-downloads/prescreen_v2_batch_*.csv",
+  "batch_csv_count": 98,
+  "total_products_analyzed": 14417,
+  "expected_url_filtered_products_from_task": 14416,
+  "actual_vs_expected_product_delta": 1,
+  "products_pass": 620,
+  "products_maybe": 0,
+  "products_fail": 13797,
+  "pass_rate": 0.043005,
+  "maybe_rate": 0.0,
+  "fail_rate": 0.956995,
+  "unique_brands_analyzed": 708,
+  "expected_url_qualified_brands_from_task": 707,
+  "passing_brands": 124,
+  "fail_reason_breakdown": {
+    "gated_product": 12061,
+    "hazmat": 883,
+    "top_seller_dominant_small_field": 834,
+    "top_seller_dominant": 14,
+    "amazon_bb_dominant": 2,
+    "fba_sellers_below_min": 1,
+    "no_fba_presence": 1,
+    "price_below_min": 1
+  },
+  "crowded_market_products": 86,
+  "crowded_market_passing_products": 2,
+  "velocity_grade_counts_all_products": {
+    "A": 1027,
+    "B": 398,
+    "C": 2443,
+    "LOW": 10549
+  },
+  "velocity_grade_counts_passing_products": {
+    "A": 14,
+    "B": 11,
+    "C": 89,
+    "LOW": 506
+  },
+  "top_30_passing_brands_by_product_count": [
+    {
+      "brand_name": "Oceanic",
+      "passing_products": 57,
+      "avg_price": 91.02,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Sig Sauer",
+      "passing_products": 44,
+      "avg_price": 159.79,
+      "top_velocity_grade": "B"
+    },
+    {
+      "brand_name": "Blue Sky Clayworks",
+      "passing_products": 34,
+      "avg_price": 40.85,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Lyman",
+      "passing_products": 27,
+      "avg_price": 36.48,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Galco",
+      "passing_products": 23,
+      "avg_price": 107.37,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "YakAttack",
+      "passing_products": 20,
+      "avg_price": 86.32,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "ZEISS",
+      "passing_products": 20,
+      "avg_price": 1237.94,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Amscan",
+      "passing_products": 18,
+      "avg_price": 19.72,
+      "top_velocity_grade": "A"
+    },
+    {
+      "brand_name": "Lowrance",
+      "passing_products": 18,
+      "avg_price": 960.12,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "TRUGLO",
+      "passing_products": 14,
+      "avg_price": 30.31,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Pyramex",
+      "passing_products": 14,
+      "avg_price": 27.82,
+      "top_velocity_grade": "A"
+    },
+    {
+      "brand_name": "AIMS Power",
+      "passing_products": 13,
+      "avg_price": 751.63,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Hollis",
+      "passing_products": 12,
+      "avg_price": 255.87,
+      "top_velocity_grade": "B"
+    },
+    {
+      "brand_name": "Littlest Pet Shop",
+      "passing_products": 12,
+      "avg_price": 26.6,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Rainbow Friends",
+      "passing_products": 12,
+      "avg_price": 23.59,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Dynabrade",
+      "passing_products": 11,
+      "avg_price": 259.56,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Club Mocchi Mocchi",
+      "passing_products": 10,
+      "avg_price": 23.38,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Jackson",
+      "passing_products": 9,
+      "avg_price": 259.99,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "iscream",
+      "passing_products": 8,
+      "avg_price": 47.69,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Schrade",
+      "passing_products": 7,
+      "avg_price": 29.88,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Cleanwaste",
+      "passing_products": 7,
+      "avg_price": 69.26,
+      "top_velocity_grade": "A"
+    },
+    {
+      "brand_name": "Unique",
+      "passing_products": 6,
+      "avg_price": 18.24,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Mary Meyer",
+      "passing_products": 6,
+      "avg_price": 22.7,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Quicksilver",
+      "passing_products": 6,
+      "avg_price": 57.28,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Blue Force Gear",
+      "passing_products": 6,
+      "avg_price": 48.0,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Ticonderoga",
+      "passing_products": 6,
+      "avg_price": 27.5,
+      "top_velocity_grade": "C"
+    },
+    {
+      "brand_name": "Gonesh",
+      "passing_products": 5,
+      "avg_price": 18.19,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Allsop",
+      "passing_products": 5,
+      "avg_price": 36.39,
+      "top_velocity_grade": "LOW"
+    },
+    {
+      "brand_name": "Nocs Provisions",
+      "passing_products": 5,
+      "avg_price": 127.24,
+      "top_velocity_grade": "A"
+    },
+    {
+      "brand_name": "SHOWA",
+      "passing_products": 5,
+      "avg_price": 29.54,
+      "top_velocity_grade": "C"
+    }
+  ],
+  "per_batch": [
+    {
+      "source_batch": "prescreen_v2_batch_001.csv",
+      "total_products": 497,
+      "passing_products": 5,
+      "fail_products": 492,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 450,
+        "hazmat": 37,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_004.csv",
+      "total_products": 35,
+      "passing_products": 3,
+      "fail_products": 32,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 10,
+      "fail_reasons": {
+        "gated_product": 11,
+        "hazmat": 19,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_005.csv",
+      "total_products": 88,
+      "passing_products": 13,
+      "fail_products": 75,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 69,
+        "top_seller_dominant_small_field": 6
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_006.csv",
+      "total_products": 31,
+      "passing_products": 6,
+      "fail_products": 25,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 6,
+        "hazmat": 6,
+        "top_seller_dominant_small_field": 13
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_007.csv",
+      "total_products": 10,
+      "passing_products": 1,
+      "fail_products": 9,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 4,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_008.csv",
+      "total_products": 124,
+      "passing_products": 18,
+      "fail_products": 106,
+      "crowded_products": 3,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 82,
+        "top_seller_dominant": 1,
+        "top_seller_dominant_small_field": 23
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_009.csv",
+      "total_products": 61,
+      "passing_products": 6,
+      "fail_products": 55,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 47,
+        "top_seller_dominant_small_field": 8
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_010.csv",
+      "total_products": 190,
+      "passing_products": 0,
+      "fail_products": 190,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 144,
+        "hazmat": 37,
+        "top_seller_dominant_small_field": 9
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_012.csv",
+      "total_products": 135,
+      "passing_products": 1,
+      "fail_products": 134,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 127,
+        "hazmat": 6,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_013.csv",
+      "total_products": 320,
+      "passing_products": 0,
+      "fail_products": 320,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 317,
+        "hazmat": 2,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_014.csv",
+      "total_products": 156,
+      "passing_products": 1,
+      "fail_products": 155,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 144,
+        "hazmat": 2,
+        "top_seller_dominant_small_field": 9
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_016.csv",
+      "total_products": 298,
+      "passing_products": 10,
+      "fail_products": 288,
+      "crowded_products": 4,
+      "crowded_passing_products": 0,
+      "unique_brands": 10,
+      "fail_reasons": {
+        "gated_product": 261,
+        "hazmat": 11,
+        "top_seller_dominant_small_field": 16
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_018.csv",
+      "total_products": 159,
+      "passing_products": 2,
+      "fail_products": 157,
+      "crowded_products": 2,
+      "crowded_passing_products": 0,
+      "unique_brands": 12,
+      "fail_reasons": {
+        "gated_product": 144,
+        "hazmat": 6,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_020.csv",
+      "total_products": 540,
+      "passing_products": 47,
+      "fail_products": 493,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 15,
+      "fail_reasons": {
+        "amazon_bb_dominant": 1,
+        "gated_product": 361,
+        "hazmat": 6,
+        "top_seller_dominant": 1,
+        "top_seller_dominant_small_field": 124
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_021.csv",
+      "total_products": 287,
+      "passing_products": 3,
+      "fail_products": 284,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 259,
+        "hazmat": 9,
+        "top_seller_dominant_small_field": 16
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_022.csv",
+      "total_products": 52,
+      "passing_products": 1,
+      "fail_products": 51,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 44,
+        "hazmat": 5,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_028.csv",
+      "total_products": 38,
+      "passing_products": 0,
+      "fail_products": 38,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 32,
+        "hazmat": 6
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_029.csv",
+      "total_products": 428,
+      "passing_products": 1,
+      "fail_products": 427,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 417,
+        "hazmat": 9,
+        "price_below_min": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_030.csv",
+      "total_products": 36,
+      "passing_products": 2,
+      "fail_products": 34,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 33,
+        "hazmat": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_032.csv",
+      "total_products": 53,
+      "passing_products": 17,
+      "fail_products": 36,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 15,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 20
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_033.csv",
+      "total_products": 219,
+      "passing_products": 3,
+      "fail_products": 216,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 203,
+        "hazmat": 11,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_034.csv",
+      "total_products": 111,
+      "passing_products": 3,
+      "fail_products": 108,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 83,
+        "hazmat": 23,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_035.csv",
+      "total_products": 543,
+      "passing_products": 6,
+      "fail_products": 537,
+      "crowded_products": 3,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 530,
+        "hazmat": 2,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_038.csv",
+      "total_products": 247,
+      "passing_products": 0,
+      "fail_products": 247,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 247
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_039.csv",
+      "total_products": 109,
+      "passing_products": 1,
+      "fail_products": 108,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 102,
+        "hazmat": 5,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_042.csv",
+      "total_products": 30,
+      "passing_products": 0,
+      "fail_products": 30,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 30
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_045.csv",
+      "total_products": 157,
+      "passing_products": 17,
+      "fail_products": 140,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 12,
+      "fail_reasons": {
+        "gated_product": 114,
+        "hazmat": 13,
+        "top_seller_dominant": 1,
+        "top_seller_dominant_small_field": 12
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_046.csv",
+      "total_products": 237,
+      "passing_products": 5,
+      "fail_products": 232,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 195,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 36
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_047.csv",
+      "total_products": 635,
+      "passing_products": 3,
+      "fail_products": 632,
+      "crowded_products": 13,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 620,
+        "top_seller_dominant_small_field": 12
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_053.csv",
+      "total_products": 31,
+      "passing_products": 0,
+      "fail_products": 31,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 26,
+        "hazmat": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_054.csv",
+      "total_products": 294,
+      "passing_products": 6,
+      "fail_products": 288,
+      "crowded_products": 2,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 278,
+        "hazmat": 7,
+        "top_seller_dominant_small_field": 3
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_055.csv",
+      "total_products": 62,
+      "passing_products": 1,
+      "fail_products": 61,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 39,
+        "hazmat": 19,
+        "top_seller_dominant_small_field": 3
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_056.csv",
+      "total_products": 261,
+      "passing_products": 0,
+      "fail_products": 261,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 259,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_058.csv",
+      "total_products": 182,
+      "passing_products": 27,
+      "fail_products": 155,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "amazon_bb_dominant": 1,
+        "gated_product": 122,
+        "hazmat": 10,
+        "top_seller_dominant_small_field": 22
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_059.csv",
+      "total_products": 76,
+      "passing_products": 0,
+      "fail_products": 76,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 71,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_061.csv",
+      "total_products": 175,
+      "passing_products": 0,
+      "fail_products": 175,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 168,
+        "hazmat": 5,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_063.csv",
+      "total_products": 353,
+      "passing_products": 5,
+      "fail_products": 348,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 326,
+        "hazmat": 3,
+        "top_seller_dominant": 1,
+        "top_seller_dominant_small_field": 18
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_064.csv",
+      "total_products": 26,
+      "passing_products": 1,
+      "fail_products": 25,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 18,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_066.csv",
+      "total_products": 61,
+      "passing_products": 4,
+      "fail_products": 57,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 47,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_067.csv",
+      "total_products": 75,
+      "passing_products": 3,
+      "fail_products": 72,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 10,
+      "fail_reasons": {
+        "gated_product": 69,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_070.csv",
+      "total_products": 185,
+      "passing_products": 1,
+      "fail_products": 184,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 153,
+        "hazmat": 7,
+        "top_seller_dominant_small_field": 24
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_072.csv",
+      "total_products": 234,
+      "passing_products": 13,
+      "fail_products": 221,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "fba_sellers_below_min": 1,
+        "gated_product": 178,
+        "hazmat": 32,
+        "top_seller_dominant_small_field": 10
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_073.csv",
+      "total_products": 36,
+      "passing_products": 0,
+      "fail_products": 36,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 34,
+        "hazmat": 1,
+        "no_fba_presence": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_074.csv",
+      "total_products": 22,
+      "passing_products": 0,
+      "fail_products": 22,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 21,
+        "hazmat": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_075.csv",
+      "total_products": 32,
+      "passing_products": 4,
+      "fail_products": 28,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 26,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_077.csv",
+      "total_products": 35,
+      "passing_products": 0,
+      "fail_products": 35,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 23,
+        "hazmat": 12
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_078.csv",
+      "total_products": 113,
+      "passing_products": 9,
+      "fail_products": 104,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 86,
+        "hazmat": 8,
+        "top_seller_dominant_small_field": 10
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_079.csv",
+      "total_products": 333,
+      "passing_products": 10,
+      "fail_products": 323,
+      "crowded_products": 10,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 309,
+        "hazmat": 7,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_080.csv",
+      "total_products": 63,
+      "passing_products": 2,
+      "fail_products": 61,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 61
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_086.csv",
+      "total_products": 131,
+      "passing_products": 2,
+      "fail_products": 129,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 106,
+        "hazmat": 12,
+        "top_seller_dominant_small_field": 11
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_088.csv",
+      "total_products": 119,
+      "passing_products": 3,
+      "fail_products": 116,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 93,
+        "hazmat": 2,
+        "top_seller_dominant_small_field": 21
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_089.csv",
+      "total_products": 7,
+      "passing_products": 0,
+      "fail_products": 7,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 6,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_091.csv",
+      "total_products": 301,
+      "passing_products": 0,
+      "fail_products": 301,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 245,
+        "hazmat": 56
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_092.csv",
+      "total_products": 121,
+      "passing_products": 1,
+      "fail_products": 120,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 115,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_093.csv",
+      "total_products": 194,
+      "passing_products": 12,
+      "fail_products": 182,
+      "crowded_products": 4,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 135,
+        "hazmat": 42,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_094.csv",
+      "total_products": 130,
+      "passing_products": 19,
+      "fail_products": 111,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 87,
+        "hazmat": 11,
+        "top_seller_dominant_small_field": 13
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_095.csv",
+      "total_products": 47,
+      "passing_products": 27,
+      "fail_products": 20,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 3,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 16
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_097.csv",
+      "total_products": 30,
+      "passing_products": 3,
+      "fail_products": 27,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 18,
+        "hazmat": 8,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_098.csv",
+      "total_products": 196,
+      "passing_products": 11,
+      "fail_products": 185,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 13,
+      "fail_reasons": {
+        "gated_product": 149,
+        "hazmat": 16,
+        "top_seller_dominant_small_field": 20
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_100.csv",
+      "total_products": 79,
+      "passing_products": 0,
+      "fail_products": 79,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 72,
+        "hazmat": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_101.csv",
+      "total_products": 209,
+      "passing_products": 4,
+      "fail_products": 205,
+      "crowded_products": 18,
+      "crowded_passing_products": 0,
+      "unique_brands": 10,
+      "fail_reasons": {
+        "gated_product": 191,
+        "hazmat": 4,
+        "top_seller_dominant": 1,
+        "top_seller_dominant_small_field": 9
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_102.csv",
+      "total_products": 64,
+      "passing_products": 2,
+      "fail_products": 62,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 60,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_109.csv",
+      "total_products": 33,
+      "passing_products": 1,
+      "fail_products": 32,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 30,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_110.csv",
+      "total_products": 5,
+      "passing_products": 0,
+      "fail_products": 5,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 1,
+      "fail_reasons": {
+        "hazmat": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_112.csv",
+      "total_products": 82,
+      "passing_products": 5,
+      "fail_products": 77,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 60,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 14
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_114.csv",
+      "total_products": 48,
+      "passing_products": 0,
+      "fail_products": 48,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 47,
+        "hazmat": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_115.csv",
+      "total_products": 154,
+      "passing_products": 61,
+      "fail_products": 93,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 40,
+        "hazmat": 3,
+        "top_seller_dominant": 3,
+        "top_seller_dominant_small_field": 47
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_118.csv",
+      "total_products": 86,
+      "passing_products": 1,
+      "fail_products": 85,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 79,
+        "top_seller_dominant_small_field": 6
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_120.csv",
+      "total_products": 156,
+      "passing_products": 0,
+      "fail_products": 156,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 156
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_121.csv",
+      "total_products": 59,
+      "passing_products": 1,
+      "fail_products": 58,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 11,
+      "fail_reasons": {
+        "gated_product": 45,
+        "hazmat": 6,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_122.csv",
+      "total_products": 298,
+      "passing_products": 1,
+      "fail_products": 297,
+      "crowded_products": 5,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 292,
+        "hazmat": 4,
+        "top_seller_dominant": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_123.csv",
+      "total_products": 8,
+      "passing_products": 0,
+      "fail_products": 8,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 7,
+        "hazmat": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_124.csv",
+      "total_products": 367,
+      "passing_products": 4,
+      "fail_products": 363,
+      "crowded_products": 6,
+      "crowded_passing_products": 0,
+      "unique_brands": 10,
+      "fail_reasons": {
+        "gated_product": 350,
+        "hazmat": 10,
+        "top_seller_dominant_small_field": 3
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_129.csv",
+      "total_products": 52,
+      "passing_products": 1,
+      "fail_products": 51,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 28,
+        "hazmat": 18,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_130.csv",
+      "total_products": 74,
+      "passing_products": 15,
+      "fail_products": 59,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 21,
+        "hazmat": 36,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_131.csv",
+      "total_products": 48,
+      "passing_products": 10,
+      "fail_products": 38,
+      "crowded_products": 1,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 12,
+        "hazmat": 15,
+        "top_seller_dominant_small_field": 11
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_132.csv",
+      "total_products": 161,
+      "passing_products": 16,
+      "fail_products": 145,
+      "crowded_products": 3,
+      "crowded_passing_products": 2,
+      "unique_brands": 12,
+      "fail_reasons": {
+        "gated_product": 123,
+        "hazmat": 18,
+        "top_seller_dominant_small_field": 4
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_133.csv",
+      "total_products": 103,
+      "passing_products": 5,
+      "fail_products": 98,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 12,
+      "fail_reasons": {
+        "gated_product": 82,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 13
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_140.csv",
+      "total_products": 110,
+      "passing_products": 11,
+      "fail_products": 99,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 15,
+      "fail_reasons": {
+        "gated_product": 82,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 14
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_142.csv",
+      "total_products": 120,
+      "passing_products": 1,
+      "fail_products": 119,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 104,
+        "hazmat": 13,
+        "top_seller_dominant_small_field": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_144.csv",
+      "total_products": 95,
+      "passing_products": 6,
+      "fail_products": 89,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 80,
+        "hazmat": 1,
+        "top_seller_dominant_small_field": 8
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_145.csv",
+      "total_products": 376,
+      "passing_products": 55,
+      "fail_products": 321,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 121,
+        "hazmat": 162,
+        "top_seller_dominant": 5,
+        "top_seller_dominant_small_field": 33
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_154.csv",
+      "total_products": 179,
+      "passing_products": 0,
+      "fail_products": 179,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 178,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_155.csv",
+      "total_products": 243,
+      "passing_products": 0,
+      "fail_products": 243,
+      "crowded_products": 2,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 210,
+        "top_seller_dominant_small_field": 33
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_159.csv",
+      "total_products": 220,
+      "passing_products": 4,
+      "fail_products": 216,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 211,
+        "hazmat": 2,
+        "top_seller_dominant_small_field": 3
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_160.csv",
+      "total_products": 10,
+      "passing_products": 0,
+      "fail_products": 10,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 4,
+      "fail_reasons": {
+        "gated_product": 3,
+        "top_seller_dominant_small_field": 7
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_163.csv",
+      "total_products": 84,
+      "passing_products": 10,
+      "fail_products": 74,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 70,
+        "hazmat": 3,
+        "top_seller_dominant_small_field": 1
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_166.csv",
+      "total_products": 93,
+      "passing_products": 17,
+      "fail_products": 76,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 12,
+      "fail_reasons": {
+        "gated_product": 29,
+        "hazmat": 36,
+        "top_seller_dominant_small_field": 11
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_169.csv",
+      "total_products": 50,
+      "passing_products": 6,
+      "fail_products": 44,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 34,
+        "top_seller_dominant_small_field": 10
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_172.csv",
+      "total_products": 51,
+      "passing_products": 1,
+      "fail_products": 50,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 8,
+      "fail_reasons": {
+        "gated_product": 34,
+        "hazmat": 13,
+        "top_seller_dominant_small_field": 3
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_175.csv",
+      "total_products": 77,
+      "passing_products": 2,
+      "fail_products": 75,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 9,
+      "fail_reasons": {
+        "gated_product": 70,
+        "top_seller_dominant_small_field": 5
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_178.csv",
+      "total_products": 42,
+      "passing_products": 1,
+      "fail_products": 41,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 5,
+      "fail_reasons": {
+        "gated_product": 32,
+        "top_seller_dominant_small_field": 9
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_179.csv",
+      "total_products": 572,
+      "passing_products": 20,
+      "fail_products": 552,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 6,
+      "fail_reasons": {
+        "gated_product": 522,
+        "hazmat": 13,
+        "top_seller_dominant_small_field": 17
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_180.csv",
+      "total_products": 19,
+      "passing_products": 0,
+      "fail_products": 19,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 2,
+      "fail_reasons": {
+        "gated_product": 19
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_181.csv",
+      "total_products": 187,
+      "passing_products": 20,
+      "fail_products": 167,
+      "crowded_products": 4,
+      "crowded_passing_products": 0,
+      "unique_brands": 7,
+      "fail_reasons": {
+        "gated_product": 155,
+        "hazmat": 6,
+        "top_seller_dominant_small_field": 6
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_182.csv",
+      "total_products": 19,
+      "passing_products": 0,
+      "fail_products": 19,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 1,
+      "fail_reasons": {
+        "gated_product": 19
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_183.csv",
+      "total_products": 3,
+      "passing_products": 0,
+      "fail_products": 3,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 2,
+      "fail_reasons": {
+        "gated_product": 1,
+        "hazmat": 2
+      }
+    },
+    {
+      "source_batch": "prescreen_v2_batch_184.csv",
+      "total_products": 30,
+      "passing_products": 0,
+      "fail_products": 30,
+      "crowded_products": 0,
+      "crowded_passing_products": 0,
+      "unique_brands": 3,
+      "fail_reasons": {
+        "gated_product": 30
+      }
+    }
+  ],
+  "outputs": {
+    "passing_products_csv": "/mnt/c/Users/Big A/custodian-shared/fba-command-center/catalist-prescreen/full_analysis_passing_products.csv",
+    "brand_summary_csv": "/mnt/c/Users/Big A/custodian-shared/fba-command-center/catalist-prescreen/full_analysis_brand_summary.csv",
+    "summary_json": "/mnt/c/Users/Big A/custodian-shared/fba-command-center/catalist-prescreen/full_analysis_summary.json"
+  },
+  "runtime_seconds": 7.128,
+  "notes": [
+    "The current competition analyzer emits PASS/FAIL plus a crowded flag; it does not emit MAYBE.",
+    "competition_grade in the passing CSV preserves the analyzer verdict, so all passing rows have PASS.",
+    "crowded_market_products is reported as a flag count, not added to fail_reason_breakdown.",
+    "The live 98 CSV files contain 14,417 product rows, one more than the 14,416 context count in the task body.",
+    "The live 98 CSV files contain 708 unique brands, one more than the 707 context count in the task body."
+  ],
+  "actual_vs_expected_brand_delta": 1
+}
